@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Northeast Music Monitor</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f5f7fa; color: #263445; font-family: Arial, sans-serif; }
+    .dashboard { width: 94%; margin: 18px auto; }
+    .navigation { display: flex; gap: 8px; margin-bottom: 0; }
+    .navigation button { padding: 14px 18px; border: 0; border-radius: 12px; background: #e1e8f0; color: #263445; font-size: 16px; font-weight: bold; cursor: pointer; }
+    .navigation button.active { background: #385d85; color: white; }
+    .top { display: flex; gap: 14px; }
+    .card { background: white; border-radius: 18px; padding: 18px 22px; box-shadow: 0 3px 14px #0000000a; }
+    .top .card { flex: 1; min-width: 0; }
+    .label { color: #8795a4; font-size: 13px; font-weight: bold; letter-spacing: 1px; }
+    #clock { font-size: clamp(36px, 5vw, 68px); font-weight: bold; margin: 18px 0 12px; white-space: nowrap; }
+    #date { color: #83909e; font-size: 17px; }
+    #temperature { font-size: clamp(40px, 5vw, 62px); font-weight: bold; margin: 14px 0 8px; }
+    #conditions { font-size: 19px; margin-bottom: 8px; }
+    .details { color: #83909e; line-height: 1.6; font-size: 15px; }
+    .news { margin-top: 14px; }
+    .concert-link { color: #385d85; font-size: 14px; text-decoration: none; font-weight: bold; }
+    .concert-link:hover { text-decoration: underline; }
+    .news-header, .news-footer { display: flex; justify-content: space-between; gap: 12px; }
+    .concert-source { color: #6686a0; font-size: 14px; font-weight: bold; margin-top: 18px; }
+    .concert-headline { font-size: clamp(20px, 2.5vw, 28px); font-weight: bold; margin: 14px 0; line-height: 1.35; }
+    .news-footer { color: #8b98a6; font-size: 13px; }
+    #media-page { display: none; }
+    #media-page .card { margin-bottom: 14px; }
+    @media (max-width: 600px) {
+      .top { gap: 10px; }
+      .card { padding: 15px; }
+      .navigation button { font-size: 14px; padding: 12px; }
+      #clock { font-size: 30px; }
+      #temperature { font-size: 38px; }
+      #date, #conditions { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="dashboard">
+    <div class="navigation">
+      <button type="button" class="active" onclick="showPage('music')">Music Monitor</button>
+      <button type="button" onclick="showPage('media')">Metroland</button>
+    </div>
+
+    <div id="music-page">
+      <div class="top">
+        <div class="card">
+          <div class="label">LOCAL TIME</div>
+          <div id="clock">--:--</div>
+          <div id="date">Loading...</div>
+        </div>
+        <div class="card">
+          <div class="label">SCHENECTADY WEATHER</div>
+          <div id="temperature">--°</div>
+          <div id="conditions">Loading weather...</div>
+          <div class="details">
+            <div id="feels"></div>
+            <div id="highlow"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card news" id="announced-widget">
+        <div class="news-header">
+          <div class="label">RECENTLY ANNOUNCED CONCERTS</div>
+          <div class="label">AUTO ROTATING</div>
+        </div>
+        <div class="concert-source" id="announced-source">SAMPLE LISTING</div>
+        <div class="concert-headline" id="announced-headline">Loading concert listings...</div>
+        <div class="details" id="announced-details"></div>
+        <a class="concert-link" id="announced-link" target="_blank" rel="noopener noreferrer" hidden>Event details ↗</a>
+        <div class="news-footer">
+          <span id="announced-status">Sample listings • Live feed not connected</span>
+          <span id="announced-count"></span>
+        </div>
+      </div>
+
+      <div class="card news" id="upcoming-widget">
+        <div class="news-header">
+          <div class="label">UPCOMING CONCERTS</div>
+          <div class="label">AUTO ROTATING</div>
+        </div>
+        <div class="concert-source" id="upcoming-source">SAMPLE LISTING</div>
+        <div class="concert-headline" id="upcoming-headline">Loading concert listings...</div>
+        <div class="details" id="upcoming-details"></div>
+        <a class="concert-link" id="upcoming-link" target="_blank" rel="noopener noreferrer" hidden>Event details ↗</a>
+        <div class="news-footer">
+          <span id="upcoming-status">Sample listings • Live feed not connected</span>
+          <span id="upcoming-count"></span>
+        </div>
+      </div>
+    </div>
+
+    <div id="media-page">
+      <div class="card">
+        <h2>Metroland Media Center</h2>
+        <p>Welcome to Metroland Media Center.</p>
+      </div>
+      <div class="card">
+        <h3>Metroland Radio</h3>
+        <p>Radio player coming soon.</p>
+      </div>
+      <div class="card">
+        <h3>Metroland Podcasts</h3>
+        <p>Podcast feed coming soon.</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // CLOCK
+    function updateClock() {
+      const now = new Date();
+      document.getElementById('clock').textContent = now.toLocaleTimeString('en-US', {
+        hour: 'numeric', minute: '2-digit'
+      });
+      document.getElementById('date').textContent = now.toLocaleDateString('en-US', {
+        weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+      });
+    }
+
+    // WEATHER: Schenectady, NY
+    const latitude = 42.8142;
+    const longitude = -73.9396;
+    function weatherDescription(code) {
+      if (code === 0) return 'Clear sky';
+      if (code === 1) return 'Mainly clear';
+      if (code === 2) return 'Partly cloudy';
+      if (code === 3) return 'Overcast';
+      if (code === 45 || code === 48) return 'Foggy';
+      if ([51, 53, 55, 56, 57].includes(code)) return 'Drizzle';
+      if ([61, 63, 65, 66, 67, 80, 81, 82].includes(code)) return 'Rain';
+      if ([71, 73, 75, 77, 85, 86].includes(code)) return 'Snow';
+      if ([95, 96, 99].includes(code)) return 'Thunderstorms';
+      return 'Weather conditions';
+    }
+
+    async function updateWeather() {
+      try {
+        const url = 'https://api.open-meteo.com/v1/forecast?' +
+          new URLSearchParams({
+            latitude, longitude,
+            current: 'temperature_2m,apparent_temperature,weather_code',
+            daily: 'temperature_2m_max,temperature_2m_min',
+            temperature_unit: 'fahrenheit',
+            timezone: 'America/New_York',
+            forecast_days: '1'
+          });
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('Weather HTTP ' + response.status);
+        const data = await response.json();
+        document.getElementById('temperature').textContent =
+          Math.round(data.current.temperature_2m) + '°F';
+        document.getElementById('conditions').textContent =
+          weatherDescription(data.current.weather_code);
+        document.getElementById('feels').textContent =
+          'Feels like ' + Math.round(data.current.apparent_temperature) + '°F';
+        document.getElementById('highlow').textContent =
+          'High ' + Math.round(data.daily.temperature_2m_max[0]) + '° | Low ' +
+          Math.round(data.daily.temperature_2m_min[0]) + '°';
+      } catch (error) {
+        document.getElementById('conditions').textContent = 'Weather unavailable';
+      }
+    }
+
+    // DEMONSTRATION DATA ONLY. No live API key is stored in this HTML.
+    // When live data is available, the two widgets will use the same event list,
+    // ordered by publication date and show date respectively.
+    const sampleEvents = [
+      { artist: 'Sample Local Band', venue: 'Example neighborhood venue', city: 'Albany, NY', date: 'November 4, 2026', published: '2026-10-11', showDate: '2026-11-04', url: '' },
+      { artist: 'Sample Touring Artist', venue: 'Example concert hall', city: 'Troy, NY', date: 'October 18, 2026', published: '2026-10-09', showDate: '2026-10-18', url: '' },
+      { artist: 'Sample Indie Showcase', venue: 'Example music club', city: 'Schenectady, NY', date: 'October 25, 2026', published: '2026-10-12', showDate: '2026-10-25', url: '' },
+      { artist: 'Sample Regional Concert', venue: 'Example live music venue', city: 'Saratoga Springs, NY', date: 'November 12, 2026', published: '2026-10-07', showDate: '2026-11-12', url: '' }
+    ];
+    const widgetData = {
+      announced: { items: [...sampleEvents].sort((a, b) => b.published.localeCompare(a.published)), index: 0 },
+      upcoming: { items: [...sampleEvents].sort((a, b) => a.showDate.localeCompare(b.showDate)), index: 0 }
+    };
+
+    function showConcert(type) {
+      const widget = widgetData[type];
+      if (!widget.items.length) return;
+      const item = widget.items[widget.index];
+      document.getElementById(type + '-source').textContent = 'SAMPLE LISTING';
+      document.getElementById(type + '-headline').textContent = item.artist;
+      document.getElementById(type + '-details').textContent =
+        item.venue + ' • ' + item.city + ' • ' + item.date;
+      document.getElementById(type + '-count').textContent =
+        (widget.index + 1) + ' / ' + widget.items.length;
+      const link = document.getElementById(type + '-link');
+      if (item.url && /^https:\/\//i.test(item.url)) {
+        link.href = item.url;
+        link.hidden = false;
+      } else {
+        link.hidden = true;
+        link.removeAttribute('href');
+      }
+    }
+
+    function nextConcert(type) {
+      const widget = widgetData[type];
+      if (!widget.items.length) return;
+      widget.index = (widget.index + 1) % widget.items.length;
+      showConcert(type);
+    }
+
+    function showPage(page) {
+      document.getElementById('music-page').style.display =
+        page === 'music' ? 'block' : 'none';
+      document.getElementById('media-page').style.display =
+        page === 'media' ? 'block' : 'none';
+      const buttons = document.querySelectorAll('.navigation button');
+      buttons[0].classList.toggle('active', page === 'music');
+      buttons[1].classList.toggle('active', page === 'media');
+    }
+
+    updateClock();
+    setInterval(updateClock, 1000);
+    updateWeather();
+    setInterval(updateWeather, 15 * 60 * 1000);
+    showConcert('announced');
+    showConcert('upcoming');
+    setInterval(() => nextConcert('announced'), 10000);
+    setInterval(() => nextConcert('upcoming'), 10000);
+    showPage('music');
+  </script>
+</body>
+</html>
