@@ -204,7 +204,7 @@ async function loadConcerts() {
     }
 
     widgetData.announced.items =
-      (data.recently_announced || []).map(formatConcert);
+      (data.recent || []).map(formatConcert);
 
     widgetData.upcoming.items =
       (data.upcoming || []).map(formatConcert);
