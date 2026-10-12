@@ -1,0 +1,922 @@
+{
+  "updated": "2026-10-12T17:36:41.264458+00:00",
+  "upcoming": [
+    {
+      "title": "Daughtry at Troy Savings Bank Music Hall",
+      "artists": [
+        "Daughtry"
+      ],
+      "venue": "Troy Savings Bank Music Hall",
+      "date": "2026-10-12T19:00:00",
+      "announced": "2026-06-16T18:15:32Z",
+      "url": "https://www.jambase.com/show/daughtry-troy-savings-bank-music-hall-20261012",
+      "id": "jambase:16527254"
+    },
+    {
+      "title": "Chest Fever (Tribute to The Band) at Colony",
+      "artists": [
+        "Chest Fever (Tribute to The Band)"
+      ],
+      "venue": "Colony",
+      "date": "2026-10-13T19:00:00",
+      "announced": "2026-08-20T22:26:00Z",
+      "url": "https://www.jambase.com/show/chest-fever-tribute-to-the-band-colony-20261013",
+      "id": "jambase:16930230"
+    },
+    {
+      "title": "Juma Sultan at Tubby’s",
+      "artists": [
+        "Juma Sultan"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-14T19:00:00",
+      "announced": "2026-09-22T19:15:43Z",
+      "url": "https://www.jambase.com/show/juma-sultan-tubbys-20261014",
+      "id": "jambase:17087835"
+    },
+    {
+      "title": "Melvin Seals and JGB at The Egg",
+      "artists": [
+        "Melvin Seals and JGB"
+      ],
+      "venue": "The Egg",
+      "date": "2026-10-14T19:30:00",
+      "announced": "2026-08-05T13:59:51Z",
+      "url": "https://www.jambase.com/show/melvin-seals-and-jgb-the-egg-20261014",
+      "id": "jambase:16840731"
+    },
+    {
+      "title": "Nic Panken at The Local Center for Arts and Culture",
+      "artists": [
+        "Nic Panken"
+      ],
+      "venue": "The Local Center for Arts and Culture",
+      "date": "2026-10-14T19:30:00",
+      "announced": "2026-07-07T16:26:04Z",
+      "url": "https://www.jambase.com/show/nic-panken-the-local-center-for-arts-and-culture-20261014",
+      "id": "jambase:16698656"
+    },
+    {
+      "title": "The Tubs at Tubby’s",
+      "artists": [
+        "The Tubs"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-15T19:00:00",
+      "announced": "2026-06-23T18:41:19Z",
+      "url": "https://www.jambase.com/show/the-tubs-tubbys-20261015",
+      "id": "jambase:16569419"
+    },
+    {
+      "title": "Lucibela at The Local Center for Arts and Culture",
+      "artists": [
+        "Lucibela"
+      ],
+      "venue": "The Local Center for Arts and Culture",
+      "date": "2026-10-15T19:00:00",
+      "announced": "2026-07-02T18:44:09Z",
+      "url": "https://www.jambase.com/show/lucibela-the-local-center-for-arts-and-culture-20261015",
+      "id": "jambase:16680017"
+    },
+    {
+      "title": "Matt Niedbalski at The Park Theater",
+      "artists": [
+        "Matt Niedbalski"
+      ],
+      "venue": "The Park Theater",
+      "date": "2026-10-15T19:30:00",
+      "announced": "2026-08-03T17:18:02Z",
+      "url": "https://www.jambase.com/show/matt-niedbalski-the-park-theater-20261015",
+      "id": "jambase:16829920"
+    },
+    {
+      "title": "Vitamin String Quartet at Mahaiwe Performing Arts Center",
+      "artists": [
+        "Vitamin String Quartet",
+        "Girl Named Tom"
+      ],
+      "venue": "Mahaiwe Performing Arts Center",
+      "date": "2026-10-16T19:30:00",
+      "announced": "2026-05-27T20:52:21Z",
+      "url": "https://www.jambase.com/show/vitamin-string-quartet-mahaiwe-performing-arts-center-20261016",
+      "id": "jambase:16396848"
+    },
+    {
+      "title": "Asleep at the Wheel at Infinity Hall",
+      "artists": [
+        "Asleep at the Wheel"
+      ],
+      "venue": "Infinity Hall",
+      "date": "2026-10-16T20:00:00",
+      "announced": "2026-08-25T22:01:50Z",
+      "url": "https://www.jambase.com/show/asleep-at-the-wheel-infinity-hall-20261016",
+      "id": "jambase:16950873"
+    },
+    {
+      "title": "Jerry's Middle Finger at Lark Hall",
+      "artists": [
+        "Jerry’s Middle Finger"
+      ],
+      "venue": "Lark Hall",
+      "date": "2026-10-16T20:00:00",
+      "announced": "2026-10-02T16:19:32Z",
+      "url": "https://www.jambase.com/show/jerrys-middle-finger-lark-hall-20261016",
+      "id": "jambase:17158458"
+    },
+    {
+      "title": "PeelingFlesh at Empire Live",
+      "artists": [
+        "PeelingFlesh",
+        "Gridiron",
+        "Fatal Realm",
+        "FINAL RESTING PLACE"
+      ],
+      "venue": "Empire Live",
+      "date": "2026-10-17T18:30:00",
+      "announced": "2026-07-30T17:42:32Z",
+      "url": "https://www.jambase.com/show/peelingflesh-empire-live-20261017",
+      "id": "jambase:16813734"
+    },
+    {
+      "title": "Genitorturers at Empire Underground",
+      "artists": [
+        "Genitorturers",
+        "Nathan James"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-17T18:30:00",
+      "announced": "2026-08-21T17:32:23Z",
+      "url": "https://www.jambase.com/show/genitorturers-empire-underground-20261017",
+      "id": "jambase:16932715"
+    },
+    {
+      "title": "Jet Jurgensmeyer at Putnam Place",
+      "artists": [
+        "Jet Jurgensmeyer"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-17T18:30:00",
+      "announced": "2026-08-17T20:21:59Z",
+      "url": "https://www.jambase.com/show/jet-jurgensmeyer-putnam-place-20261017",
+      "id": "jambase:16909596"
+    },
+    {
+      "title": "Westerlund//Hagen at Tubby’s",
+      "artists": [
+        "Westerlund//Hagen"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-17T19:00:00",
+      "announced": "2026-09-02T19:44:53Z",
+      "url": "https://www.jambase.com/show/westerlund-hagen-tubbys-20261017",
+      "id": "jambase:16989858"
+    },
+    {
+      "title": "Tab Benoit at Assembly",
+      "artists": [
+        "Tab Benoit",
+        "Ghalia Volt"
+      ],
+      "venue": "Assembly",
+      "date": "2026-10-17T20:00:00",
+      "announced": "2026-03-24T17:36:45Z",
+      "url": "https://www.jambase.com/show/tab-benoit-assembly-20261017",
+      "id": "jambase:15943718"
+    },
+    {
+      "title": "REPRISE: A Phish Experience at Lark Hall",
+      "artists": [
+        "REPRISE: A Phish Experience"
+      ],
+      "venue": "Lark Hall",
+      "date": "2026-10-17T20:00:00",
+      "announced": "2026-10-08T19:41:34Z",
+      "url": "https://www.jambase.com/show/reprise-a-phish-experience-lark-hall-20261017",
+      "id": "jambase:17198679"
+    },
+    {
+      "title": "Andes Manta at The Local Center for Arts and Culture",
+      "artists": [
+        "Andes Manta"
+      ],
+      "venue": "The Local Center for Arts and Culture",
+      "date": "2026-10-17T20:00:00",
+      "announced": "2026-07-02T19:06:54Z",
+      "url": "https://www.jambase.com/show/andes-manta-the-local-center-for-arts-and-culture-20261017",
+      "id": "jambase:16680293"
+    },
+    {
+      "title": "Langhorne Slim at AutoCamp Catskills",
+      "artists": [
+        "Langhorne Slim"
+      ],
+      "venue": "AutoCamp Catskills",
+      "date": "2026-10-18T19:00:00",
+      "announced": "2026-08-05T18:01:47Z",
+      "url": "https://www.jambase.com/show/langhorne-slim-autocamp-catskills-20261018",
+      "id": "jambase:16843772"
+    },
+    {
+      "title": "Bandits on the Run at Caffe Lena",
+      "artists": [
+        "Bandits on the Run"
+      ],
+      "venue": "Caffe Lena",
+      "date": "2026-10-18T19:00:00",
+      "announced": "2026-10-03T22:34:08Z",
+      "url": "https://www.jambase.com/show/bandits-on-the-run-caffe-lena-20261018",
+      "id": "jambase:17160011"
+    },
+    {
+      "title": "J. Robbins at Basilica Hudson",
+      "artists": [
+        "J. Robbins",
+        "Sugar"
+      ],
+      "venue": "Basilica Hudson",
+      "date": "2026-10-18T20:00:00",
+      "announced": "2026-01-21T15:28:17Z",
+      "url": "https://www.jambase.com/show/j-robbins-basilica-hudson-20261018",
+      "id": "jambase:15521983"
+    },
+    {
+      "title": "The Band Memo at Empire Underground",
+      "artists": [
+        "The Band Memo"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-18T20:00:00",
+      "announced": "2026-08-24T21:35:33Z",
+      "url": "https://www.jambase.com/show/the-band-memo-empire-underground-20261018",
+      "id": "jambase:16942232"
+    },
+    {
+      "title": "Big Ass Truck I.E. at The Dairy Field",
+      "artists": [
+        "Big Ass Truck I.E.",
+        "Chamber",
+        "Mugshot"
+      ],
+      "venue": "The Dairy Field",
+      "date": "2026-10-20T18:00:00",
+      "announced": "2026-08-11T22:35:09Z",
+      "url": "https://www.jambase.com/show/big-ass-truck-i-e-the-dairy-field-20261020",
+      "id": "jambase:16870445"
+    },
+    {
+      "title": "Suzanne Vega at BOMBYX Center for Arts & Equity",
+      "artists": [
+        "Suzanne Vega"
+      ],
+      "venue": "BOMBYX Center for Arts & Equity",
+      "date": "2026-10-20T19:00:00",
+      "announced": "2026-06-23T16:51:41Z",
+      "url": "https://www.jambase.com/show/suzanne-vega-bombyx-center-for-arts-equity-20261020",
+      "id": "jambase:16566426"
+    },
+    {
+      "title": "Earl Sweatshirt at Mass MoCA",
+      "artists": [
+        "Earl Sweatshirt",
+        "MIKE",
+        "SURF GANG",
+        "Anysia Kym"
+      ],
+      "venue": "Mass MoCA",
+      "date": "2026-10-20T20:00:00",
+      "announced": "2026-07-09T20:24:02Z",
+      "url": "https://www.jambase.com/show/earl-sweatshirt-mass-moca-20261020",
+      "id": "jambase:16717304"
+    },
+    {
+      "title": "Collective Soul at Palace Theatre",
+      "artists": [
+        "Collective Soul",
+        "Plush"
+      ],
+      "venue": "Palace Theatre",
+      "date": "2026-10-20T20:00:00",
+      "announced": "2026-06-30T22:16:03Z",
+      "url": "https://www.jambase.com/show/collective-soul-palace-theatre-20261020",
+      "id": "jambase:16646417"
+    },
+    {
+      "title": "Trombone Shorty & Orleans Avenue at Troy Savings Bank Music Hall",
+      "artists": [
+        "Trombone Shorty & Orleans Avenue",
+        "Abraham Alexander"
+      ],
+      "venue": "Troy Savings Bank Music Hall",
+      "date": "2026-10-20T20:00:00",
+      "announced": "2026-07-21T17:12:21Z",
+      "url": "https://www.jambase.com/show/trombone-shorty-orleans-avenue-troy-savings-bank-music-hall-20261020",
+      "id": "jambase:16770922"
+    },
+    {
+      "title": "He Is Legend at Empire Underground",
+      "artists": [
+        "He Is Legend",
+        "In Angles",
+        "Excide"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-21T18:30:00",
+      "announced": "2026-08-13T18:04:36Z",
+      "url": "https://www.jambase.com/show/he-is-legend-empire-underground-20261021",
+      "id": "jambase:16882400"
+    },
+    {
+      "title": "Wiring at No Fun",
+      "artists": [
+        "Wiring",
+        "Fib",
+        "Bruiser and Bicycle"
+      ],
+      "venue": "No Fun",
+      "date": "2026-10-21T19:00:00",
+      "announced": "2026-10-05T16:55:02Z",
+      "url": "https://www.jambase.com/show/wiring-no-fun-20261021",
+      "id": "jambase:17168371"
+    },
+    {
+      "title": "The Bobcats at Colony",
+      "artists": [
+        "The Bobcats"
+      ],
+      "venue": "Colony",
+      "date": "2026-10-21T19:00:00",
+      "announced": "2026-10-05T20:11:35Z",
+      "url": "https://www.jambase.com/show/the-bobcats-colony-20261021",
+      "id": "jambase:17173066"
+    },
+    {
+      "title": "Trapt at Putnam Place",
+      "artists": [
+        "Trapt"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-21T20:00:00",
+      "announced": "2026-03-31T19:54:57Z",
+      "url": "https://www.jambase.com/show/trapt-putnam-place-20261021",
+      "id": "jambase:15989093"
+    },
+    {
+      "title": "All Them Witches at Empire Live",
+      "artists": [
+        "All Them Witches",
+        "Emma Ruth Rundle"
+      ],
+      "venue": "Empire Live",
+      "date": "2026-10-21T20:00:00",
+      "announced": "2026-04-27T15:11:35Z",
+      "url": "https://www.jambase.com/show/all-them-witches-empire-live-20261021",
+      "id": "jambase:16147453"
+    },
+    {
+      "title": "The Steel Wheels at Colony",
+      "artists": [
+        "The Steel Wheels",
+        "Damn Tall Buildings"
+      ],
+      "venue": "Colony",
+      "date": "2026-10-22T19:00:00",
+      "announced": "2026-06-15T17:26:26Z",
+      "url": "https://www.jambase.com/show/the-steel-wheels-colony-20261022",
+      "id": "jambase:16513670"
+    },
+    {
+      "title": "June McDoom at Tubby’s",
+      "artists": [
+        "June McDoom"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-22T19:00:00",
+      "announced": "2026-08-04T15:55:57Z",
+      "url": "https://www.jambase.com/show/june-mcdoom-tubbys-20261022",
+      "id": "jambase:16833597"
+    },
+    {
+      "title": "Dizgo at Bearsville Theater",
+      "artists": [
+        "Dizgo",
+        "Kale"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-10-22T19:00:00",
+      "announced": "2026-05-20T22:58:09Z",
+      "url": "https://www.jambase.com/show/dizgo-bearsville-theater-20261022",
+      "id": "jambase:16340515"
+    },
+    {
+      "title": "Hunter Flynn at Empire Underground",
+      "artists": [
+        "Hunter Flynn"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-22T20:00:00",
+      "announced": "2026-08-17T18:44:14Z",
+      "url": "https://www.jambase.com/show/hunter-flynn-empire-underground-20261022",
+      "id": "jambase:16894707"
+    },
+    {
+      "title": "Skeleton Crewe at Putnam Place",
+      "artists": [
+        "Skeleton Crewe"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-22T20:00:00",
+      "announced": "2026-08-11T14:03:49Z",
+      "url": "https://www.jambase.com/show/skeleton-crewe-putnam-place-20261022",
+      "id": "jambase:16867524"
+    },
+    {
+      "title": "Troy Ramey at Charles R Wood Theater",
+      "artists": [
+        "Troy Ramey"
+      ],
+      "venue": "Charles R Wood Theater",
+      "date": "2026-10-22T20:30:00",
+      "announced": "2026-09-01T20:20:01Z",
+      "url": "https://www.jambase.com/show/troy-ramey-charles-r-wood-theater-20261022",
+      "id": "jambase:16981776"
+    },
+    {
+      "title": "Deana Carter at Charles Wood Theater",
+      "artists": [
+        "Deana Carter"
+      ],
+      "venue": "Charles Wood Theater",
+      "date": "2026-10-23T19:00:00",
+      "announced": "2026-08-05T18:52:05Z",
+      "url": "https://www.jambase.com/show/deana-carter-charles-wood-theater-20261023",
+      "id": "jambase:16845369"
+    },
+    {
+      "title": "Los Lobos at Hart Theatre at The Egg",
+      "artists": [
+        "Los Lobos"
+      ],
+      "venue": "Hart Theatre at The Egg",
+      "date": "2026-10-23T19:00:00",
+      "announced": "2026-05-20T21:48:34Z",
+      "url": "https://www.jambase.com/show/los-lobos-hart-theatre-at-the-egg-20261023",
+      "id": "jambase:16337861"
+    }
+  ],
+  "recent": [
+    {
+      "title": "Ani DiFranco at Bearsville Theater",
+      "artists": [
+        "Ani DiFranco"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-11-12T20:00:00",
+      "announced": "2026-10-12T16:52:38Z",
+      "url": "https://www.jambase.com/show/ani-difranco-bearsville-theater-20261112",
+      "id": "jambase:17212567"
+    },
+    {
+      "title": "St. Vincent at Bearsville Theater",
+      "artists": [
+        "St. Vincent"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-10-09T17:28:39Z",
+      "url": "https://www.jambase.com/show/st-vincent-bearsville-theater-20261030",
+      "id": "jambase:17206514"
+    },
+    {
+      "title": "REPRISE: A Phish Experience at Lark Hall",
+      "artists": [
+        "REPRISE: A Phish Experience"
+      ],
+      "venue": "Lark Hall",
+      "date": "2026-10-17T20:00:00",
+      "announced": "2026-10-08T19:41:34Z",
+      "url": "https://www.jambase.com/show/reprise-a-phish-experience-lark-hall-20261017",
+      "id": "jambase:17198679"
+    },
+    {
+      "title": "Ani DiFranco at Proctor’s Theatre",
+      "artists": [
+        "Ani DiFranco",
+        "Sweet Petunia"
+      ],
+      "venue": "Proctor’s Theatre",
+      "date": "2026-11-13T20:00:00",
+      "announced": "2026-10-07T17:04:57Z",
+      "url": "https://www.jambase.com/show/ani-difranco-proctors-theatre-20261113",
+      "id": "jambase:17189826"
+    },
+    {
+      "title": "The Bobcats at Colony",
+      "artists": [
+        "The Bobcats"
+      ],
+      "venue": "Colony",
+      "date": "2026-10-21T19:00:00",
+      "announced": "2026-10-05T20:11:35Z",
+      "url": "https://www.jambase.com/show/the-bobcats-colony-20261021",
+      "id": "jambase:17173066"
+    },
+    {
+      "title": "Hudson Valley Flyers at Colony",
+      "artists": [
+        "Hudson Valley Flyers"
+      ],
+      "venue": "Colony",
+      "date": "2026-10-25T19:00:00",
+      "announced": "2026-10-05T20:11:09Z",
+      "url": "https://www.jambase.com/show/hudson-valley-flyers-colony-20261025",
+      "id": "jambase:17172947"
+    },
+    {
+      "title": "Wiring at No Fun",
+      "artists": [
+        "Wiring",
+        "Fib",
+        "Bruiser and Bicycle"
+      ],
+      "venue": "No Fun",
+      "date": "2026-10-21T19:00:00",
+      "announced": "2026-10-05T16:55:02Z",
+      "url": "https://www.jambase.com/show/wiring-no-fun-20261021",
+      "id": "jambase:17168371"
+    },
+    {
+      "title": "SUMPP at No Fun",
+      "artists": [
+        "SUMPP",
+        "Flagman",
+        "CPS"
+      ],
+      "venue": "No Fun",
+      "date": "2026-11-03T19:00:00",
+      "announced": "2026-10-05T15:50:48Z",
+      "url": "https://www.jambase.com/show/sumpp-no-fun-20261103",
+      "id": "jambase:17161685"
+    },
+    {
+      "title": "Tinsley Ellis at Colony",
+      "artists": [
+        "Tinsley Ellis"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-15T19:00:00",
+      "announced": "2026-10-05T15:39:20Z",
+      "url": "https://www.jambase.com/show/tinsley-ellis-colony-20261115",
+      "id": "jambase:17161438"
+    },
+    {
+      "title": "Bandits on the Run at Caffe Lena",
+      "artists": [
+        "Bandits on the Run"
+      ],
+      "venue": "Caffe Lena",
+      "date": "2026-10-18T19:00:00",
+      "announced": "2026-10-03T22:34:08Z",
+      "url": "https://www.jambase.com/show/bandits-on-the-run-caffe-lena-20261018",
+      "id": "jambase:17160011"
+    },
+    {
+      "title": "Jerry's Middle Finger at Lark Hall",
+      "artists": [
+        "Jerry’s Middle Finger"
+      ],
+      "venue": "Lark Hall",
+      "date": "2026-10-16T20:00:00",
+      "announced": "2026-10-02T16:19:32Z",
+      "url": "https://www.jambase.com/show/jerrys-middle-finger-lark-hall-20261016",
+      "id": "jambase:17158458"
+    },
+    {
+      "title": "The NolaNauts at Putnam Place",
+      "artists": [
+        "The NolaNauts",
+        "Tops of Trees"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-31T20:00:00",
+      "announced": "2026-09-28T18:55:20Z",
+      "url": "https://www.jambase.com/show/the-nolanauts-putnam-place-20261031",
+      "id": "jambase:17129311"
+    },
+    {
+      "title": "Vieux Farka Touré at Assembly",
+      "artists": [
+        "Vieux Farka Touré"
+      ],
+      "venue": "Assembly",
+      "date": "2026-11-04T20:00:00",
+      "announced": "2026-09-28T16:28:33Z",
+      "url": "https://www.jambase.com/show/vieux-farka-toure-assembly-20261104",
+      "id": "jambase:17124755"
+    },
+    {
+      "title": "Sly Fox and the Hustlers at Putnam Place",
+      "artists": [
+        "Sly Fox and the Hustlers"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-11-13T20:00:00",
+      "announced": "2026-09-25T21:49:52Z",
+      "url": "https://www.jambase.com/show/sly-fox-and-the-hustlers-putnam-place-20261113",
+      "id": "jambase:17118971"
+    },
+    {
+      "title": "Saving Abel at Putnam Place",
+      "artists": [
+        "Saving Abel"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-11-07T20:00:00",
+      "announced": "2026-09-23T16:01:38Z",
+      "url": "https://www.jambase.com/show/saving-abel-putnam-place-20261107",
+      "id": "jambase:17091946"
+    },
+    {
+      "title": "Dead Again at Putnam Place",
+      "artists": [
+        "Dead Again",
+        "Issues (Tribute to Korn)"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-09-23T16:00:25Z",
+      "url": "https://www.jambase.com/show/dead-again-putnam-place-20261030",
+      "id": "jambase:17091940"
+    },
+    {
+      "title": "Midrift at No Fun",
+      "artists": [
+        "Midrift"
+      ],
+      "venue": "No Fun",
+      "date": "2026-10-27T19:00:00",
+      "announced": "2026-09-22T21:11:40Z",
+      "url": "https://www.jambase.com/show/midrift-no-fun-20261027",
+      "id": "jambase:17090038"
+    },
+    {
+      "title": "Juma Sultan at Tubby’s",
+      "artists": [
+        "Juma Sultan"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-14T19:00:00",
+      "announced": "2026-09-22T19:15:43Z",
+      "url": "https://www.jambase.com/show/juma-sultan-tubbys-20261014",
+      "id": "jambase:17087835"
+    },
+    {
+      "title": "T.V. Doctors at Second Act Spirits",
+      "artists": [
+        "T.V. Doctors"
+      ],
+      "venue": "Second Act Spirits",
+      "date": "2026-11-08T13:00:00",
+      "announced": "2026-09-21T20:17:10Z",
+      "url": "https://www.jambase.com/show/t-v-doctors-second-act-spirits-20261108",
+      "id": "jambase:17080744"
+    },
+    {
+      "title": "Galactic Empire at Empire Underground",
+      "artists": [
+        "Galactic Empire"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-11-04T19:00:00",
+      "announced": "2026-09-18T19:23:40Z",
+      "url": "https://www.jambase.com/show/galactic-empire-empire-underground-20261104",
+      "id": "jambase:17072388"
+    },
+    {
+      "title": "Hamilton Leithauser at Bearsville Theater",
+      "artists": [
+        "Hamilton Leithauser",
+        "Rostam"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-11-07T20:00:00",
+      "announced": "2026-09-18T16:53:46Z",
+      "url": "https://www.jambase.com/show/hamilton-leithauser-bearsville-theater-20261107",
+      "id": "jambase:17070662"
+    },
+    {
+      "title": "Little Lies: A Tribute to Fleetwood Mac at Putnam Place",
+      "artists": [
+        "Little Lies: A Tribute to Fleetwood Mac"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-11-06T20:00:00",
+      "announced": "2026-09-16T17:17:09Z",
+      "url": "https://www.jambase.com/show/little-lies-a-tribute-to-fleetwood-mac-putnam-place-20261106",
+      "id": "jambase:17056878"
+    },
+    {
+      "title": "Rachael Yamagata at Swyer Theatre at The Egg",
+      "artists": [
+        "Rachael Yamagata",
+        "Will Dailey"
+      ],
+      "venue": "Swyer Theatre at The Egg",
+      "date": "2026-11-18T20:00:00",
+      "announced": "2026-09-15T22:12:33Z",
+      "url": "https://www.jambase.com/show/rachael-yamagata-swyer-theatre-at-the-egg-20261118",
+      "id": "jambase:17055633"
+    },
+    {
+      "title": "Trey Anastasio Band at Palace Theatre",
+      "artists": [
+        "Trey Anastasio Band"
+      ],
+      "venue": "Palace Theatre",
+      "date": "2026-11-12T19:00:00",
+      "announced": "2026-09-15T16:21:25Z",
+      "url": "https://www.jambase.com/show/trey-anastasio-band-palace-theatre-20261112",
+      "id": "jambase:17048530"
+    },
+    {
+      "title": "LOCKED SHUT at The Pines Theater",
+      "artists": [
+        "LOCKED SHUT"
+      ],
+      "venue": "The Pines Theater",
+      "date": "2026-11-14T19:00:00",
+      "announced": "2026-09-14T18:35:41Z",
+      "url": "https://www.jambase.com/show/locked-shut-the-pines-theater-20261114",
+      "id": "jambase:17037814"
+    },
+    {
+      "title": "Gary Stewart at Tubby’s",
+      "artists": [
+        "Gary Stewart"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-30T18:30:00",
+      "announced": "2026-09-11T21:15:16Z",
+      "url": "https://www.jambase.com/show/gary-stewart-tubbys-20261030",
+      "id": "jambase:17033607"
+    },
+    {
+      "title": "Los Cumpleaños at Tubby’s",
+      "artists": [
+        "Los Cumpleaños"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-11-13T19:00:00",
+      "announced": "2026-09-11T21:15:14Z",
+      "url": "https://www.jambase.com/show/los-cumpleanos-tubbys-20261113",
+      "id": "jambase:17033596"
+    },
+    {
+      "title": "Pink Stiletto at Tubby’s",
+      "artists": [
+        "Pink Stiletto",
+        "MVTANT"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-11-07T19:00:00",
+      "announced": "2026-09-11T18:21:55Z",
+      "url": "https://www.jambase.com/show/pink-stiletto-mvtant-tubbys-20261107",
+      "id": "jambase:17030555"
+    },
+    {
+      "title": "Kelsey Waldon at Assembly",
+      "artists": [
+        "Kelsey Waldon"
+      ],
+      "venue": "Assembly",
+      "date": "2026-11-11T20:00:00",
+      "announced": "2026-09-09T17:23:48Z",
+      "url": "https://www.jambase.com/show/kelsey-waldon-assembly-20261111",
+      "id": "jambase:17014273"
+    },
+    {
+      "title": "T.V. Doctors at Indian Ladder Farms",
+      "artists": [
+        "T.V. Doctors"
+      ],
+      "venue": "Indian Ladder Farms",
+      "date": "2026-10-25T13:00:00",
+      "announced": "2026-09-08T21:22:57Z",
+      "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261025",
+      "id": "jambase:17005512"
+    },
+    {
+      "title": "T.V. Doctors at Indian Ladder Farms",
+      "artists": [
+        "T.V. Doctors"
+      ],
+      "venue": "Indian Ladder Farms",
+      "date": "2026-10-24T13:00:00",
+      "announced": "2026-09-08T21:22:56Z",
+      "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261024",
+      "id": "jambase:17005510"
+    },
+    {
+      "title": "The Erotics at Empire Underground",
+      "artists": [
+        "The Erotics"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-24T18:30:00",
+      "announced": "2026-09-02T23:40:31Z",
+      "url": "https://www.jambase.com/show/the-erotics-empire-underground-20261024",
+      "id": "jambase:16993691"
+    },
+    {
+      "title": "Ally Venable at Empire Underground",
+      "artists": [
+        "Ally Venable"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-31T20:00:00",
+      "announced": "2026-09-02T23:03:25Z",
+      "url": "https://www.jambase.com/show/ally-venable-empire-underground-20261031",
+      "id": "jambase:16993235"
+    },
+    {
+      "title": "Westerlund//Hagen at Tubby’s",
+      "artists": [
+        "Westerlund//Hagen"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-17T19:00:00",
+      "announced": "2026-09-02T19:44:53Z",
+      "url": "https://www.jambase.com/show/westerlund-hagen-tubbys-20261017",
+      "id": "jambase:16989858"
+    },
+    {
+      "title": "Troy Ramey at Charles R Wood Theater",
+      "artists": [
+        "Troy Ramey"
+      ],
+      "venue": "Charles R Wood Theater",
+      "date": "2026-10-22T20:30:00",
+      "announced": "2026-09-01T20:20:01Z",
+      "url": "https://www.jambase.com/show/troy-ramey-charles-r-wood-theater-20261022",
+      "id": "jambase:16981776"
+    },
+    {
+      "title": "We Used to Cut the Grass at No Fun",
+      "artists": [
+        "We Used to Cut the Grass",
+        "Vethaken",
+        "Ampevene"
+      ],
+      "venue": "No Fun",
+      "date": "2026-11-12T19:00:00",
+      "announced": "2026-08-31T18:55:26Z",
+      "url": "https://www.jambase.com/show/we-used-to-cut-the-grass-no-fun-20261112",
+      "id": "jambase:16971175"
+    },
+    {
+      "title": "Comeback Kid at The Dairy Field",
+      "artists": [
+        "Comeback Kid",
+        "Defeater",
+        "Dead Heat"
+      ],
+      "venue": "The Dairy Field",
+      "date": "2026-11-14T18:00:00",
+      "announced": "2026-08-27T21:49:16Z",
+      "url": "https://www.jambase.com/show/comeback-kid-the-dairy-field-20261114",
+      "id": "jambase:16961954"
+    },
+    {
+      "title": "The Pink Floyd Project at Colony",
+      "artists": [
+        "The Pink Floyd Project"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-07T19:00:00",
+      "announced": "2026-08-26T21:24:26Z",
+      "url": "https://www.jambase.com/show/the-pink-floyd-project-colony-20261107",
+      "id": "jambase:16958058"
+    },
+    {
+      "title": "Bearly Dead at Putnam Place",
+      "artists": [
+        "Bearly Dead"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-23T20:30:00",
+      "announced": "2026-08-26T16:33:10Z",
+      "url": "https://www.jambase.com/show/bearly-dead-putnam-place-20261023",
+      "id": "jambase:16954152"
+    },
+    {
+      "title": "Asleep at the Wheel at Infinity Hall",
+      "artists": [
+        "Asleep at the Wheel"
+      ],
+      "venue": "Infinity Hall",
+      "date": "2026-10-16T20:00:00",
+      "announced": "2026-08-25T22:01:50Z",
+      "url": "https://www.jambase.com/show/asleep-at-the-wheel-infinity-hall-20261016",
+      "id": "jambase:16950873"
+    }
+  ]
+}
