@@ -167,19 +167,64 @@
       }
     }
 
-    // DEMONSTRATION DATA ONLY. No live API key is stored in this HTML.
-    // When live data is available, the two widgets will use the same event list,
-    // ordered by publication date and show date respectively.
-    const sampleEvents = [
-      { artist: 'Sample Local Band', venue: 'Example neighborhood venue', city: 'Albany, NY', date: 'November 4, 2026', published: '2026-10-11', showDate: '2026-11-04', url: '' },
-      { artist: 'Sample Touring Artist', venue: 'Example concert hall', city: 'Troy, NY', date: 'October 18, 2026', published: '2026-10-09', showDate: '2026-10-18', url: '' },
-      { artist: 'Sample Indie Showcase', venue: 'Example music club', city: 'Schenectady, NY', date: 'October 25, 2026', published: '2026-10-12', showDate: '2026-10-25', url: '' },
-      { artist: 'Sample Regional Concert', venue: 'Example live music venue', city: 'Saratoga Springs, NY', date: 'November 12, 2026', published: '2026-10-07', showDate: '2026-11-12', url: '' }
-    ];
-    const widgetData = {
-      announced: { items: [...sampleEvents].sort((a, b) => b.published.localeCompare(a.published)), index: 0 },
-      upcoming: { items: [...sampleEvents].sort((a, b) => a.showDate.localeCompare(b.showDate)), index: 0 }
-    };
+    // LIVE CONCERT DATA
+const widgetData = {
+  announced: { items: [], index: 0 },
+  upcoming: { items: [], index: 0 }
+};
+
+async function loadConcerts() {
+  try {
+    const response = await fetch(
+      'concerts.json?t=' + Date.now()
+    );
+
+    if (!response.ok) {
+      throw new Error('Unable to load concerts');
+    }
+
+    const data = await response.json();
+
+    function formatConcert(event) {
+      const date = new Date(event.date);
+
+      return {
+        artist: event.artists?.join(', ') || event.title,
+        venue: event.venue || 'Venue TBA',
+        city: '',
+        date: isNaN(date.getTime())
+          ? 'Date TBA'
+          : date.toLocaleDateString('en-US', {
+              month: 'long',
+              day: 'numeric',
+              year: 'numeric'
+            }),
+        url: event.url || ''
+      };
+    }
+
+    widgetData.announced.items =
+      (data.recently_announced || []).map(formatConcert);
+
+    widgetData.upcoming.items =
+      (data.upcoming || []).map(formatConcert);
+
+    widgetData.announced.index = 0;
+    widgetData.upcoming.index = 0;
+
+    showConcert('announced');
+    showConcert('upcoming');
+
+    document.getElementById('announced-status').textContent =
+      'Live JamBase listings';
+
+    document.getElementById('upcoming-status').textContent =
+      'Live JamBase listings';
+
+  } catch (error) {
+    console.error('Concert loading error:', error);
+  }
+}
 
     function showConcert(type) {
       const widget = widgetData[type];
@@ -222,8 +267,8 @@
     setInterval(updateClock, 1000);
     updateWeather();
     setInterval(updateWeather, 15 * 60 * 1000);
-    showConcert('announced');
-    showConcert('upcoming');
+    loadConcerts();
+    setInterval(loadConcerts, 60 * 60 * 1000);
     setInterval(() => nextConcert('announced'), 10000);
     setInterval(() => nextConcert('upcoming'), 10000);
     showPage('music');
