@@ -2,7 +2,7 @@ name: Update Concert Listings
 
 on:
   schedule:
-    - cron: '15 10 * * *'
+    - cron: '15 */6 * * *'
   workflow_dispatch:
 
 permissions:
