@@ -230,7 +230,7 @@ async function loadConcerts() {
       const widget = widgetData[type];
       if (!widget.items.length) return;
       const item = widget.items[widget.index];
-      document.getElementById(type + '-source').textContent = 'SAMPLE LISTING';
+      document.getElementById(type + '-source').textContent = 'JAMBASE';
       document.getElementById(type + '-headline').textContent = item.artist;
       document.getElementById(type + '-details').textContent =
         item.venue + ' • ' + item.city + ' • ' + item.date;
