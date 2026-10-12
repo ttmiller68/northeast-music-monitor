@@ -37,7 +37,53 @@
       #temperature { font-size: 38px; }
       #date, #conditions { font-size: 14px; }
     }
-  </style>
+
+/* Concert news tickers */
+.concert-ticker {
+  display: flex;
+  align-items: center;
+  background: #263445;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-top: 12px;
+  min-height: 54px;
+}
+
+.ticker-label {
+  flex: 0 0 175px;
+  padding: 14px 12px;
+  background: #385d85;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  z-index: 1;
+}
+
+.ticker-window {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.ticker-track {
+  display: flex;
+  width: max-content;
+  white-space: nowrap;
+  color: white;
+  font-size: 16px;
+  animation: ticker-scroll 90s linear infinite;
+}
+
+.ticker-item {
+  padding: 0 35px;
+}
+
+@keyframes ticker-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+</style>
 </head>
 <body>
   <div class="dashboard">
@@ -64,36 +110,23 @@
         </div>
       </div>
 
-      <div class="card news" id="announced-widget">
-        <div class="news-header">
-          <div class="label">RECENTLY ANNOUNCED CONCERTS</div>
-          <div class="label">AUTO ROTATING</div>
-        </div>
-        <div class="concert-source" id="announced-source">SAMPLE LISTING</div>
-        <div class="concert-headline" id="announced-headline">Loading concert listings...</div>
-        <div class="details" id="announced-details"></div>
-        <a class="concert-link" id="announced-link" target="_blank" rel="noopener noreferrer" hidden>Event details ↗</a>
-        <div class="news-footer">
-          <span id="announced-status">Sample listings • Live feed not connected</span>
-          <span id="announced-count"></span>
-        </div>
-      </div>
-
-      <div class="card news" id="upcoming-widget">
-        <div class="news-header">
-          <div class="label">UPCOMING CONCERTS</div>
-          <div class="label">AUTO ROTATING</div>
-        </div>
-        <div class="concert-source" id="upcoming-source">SAMPLE LISTING</div>
-        <div class="concert-headline" id="upcoming-headline">Loading concert listings...</div>
-        <div class="details" id="upcoming-details"></div>
-        <a class="concert-link" id="upcoming-link" target="_blank" rel="noopener noreferrer" hidden>Event details ↗</a>
-        <div class="news-footer">
-          <span id="upcoming-status">Sample listings • Live feed not connected</span>
-          <span id="upcoming-count"></span>
-        </div>
-      </div>
+      <div class="concert-ticker" id="announced-widget">
+  <div class="ticker-label">RECENTLY ANNOUNCED</div>
+  <div class="ticker-window">
+    <div class="ticker-track" id="announced-ticker">
+      Loading concert announcements...
     </div>
+  </div>
+</div>
+
+<div class="concert-ticker" id="upcoming-widget">
+  <div class="ticker-label">UPCOMING CONCERTS</div>
+  <div class="ticker-window">
+    <div class="ticker-track" id="upcoming-ticker">
+      Loading upcoming concerts...
+    </div>
+  </div>
+</div>
 
     <div id="media-page">
       <div class="card">
@@ -215,49 +248,60 @@ async function loadConcerts() {
     showConcert('announced');
     showConcert('upcoming');
 
-    document.getElementById('announced-status').textContent =
-      'Live JamBase listings';
-
-    document.getElementById('upcoming-status').textContent =
-      'Live JamBase listings';
-
   } catch (error) {
     console.error('Concert loading error:', error);
   }
 }
 
-    function showConcert(type) {
-      const widget = widgetData[type];
-      if (!widget.items.length) return;
-      const item = widget.items[widget.index];
-      document.getElementById(type + '-source').textContent = 'JAMBASE';
-      document.getElementById(type + '-headline').textContent = item.artist;
-      document.getElementById(type + '-details').textContent =
-        item.venue + ' • ' + item.city + ' • ' + item.date;
-      document.getElementById(type + '-count').textContent =
-        (widget.index + 1) + ' / ' + widget.items.length;
-      const link = document.getElementById(type + '-link');
-      if (item.url && /^https:\/\//i.test(item.url)) {
-        link.href = item.url;
-        link.hidden = false;
-      } else {
-        link.hidden = true;
-        link.removeAttribute('href');
-      }
-    }
+function showConcert(type) {
+  const widget = widgetData[type];
+  const track = document.getElementById(type + '-ticker');
 
-    function nextConcert(type) {
-      const widget = widgetData[type];
-      if (!widget.items.length) return;
-      widget.index = (widget.index + 1) % widget.items.length;
-      showConcert(type);
-    }
+  if (!track) return;
+
+  track.replaceChildren();
+
+  if (!widget.items.length) {
+    track.textContent = 'No concerts currently listed';
+    track.style.animation = 'none';
+    return;
+  }
+
+  track.style.animation = '';
+
+  for (let copy = 0; copy < 2; copy++) {
+    const group = document.createElement('div');
+    group.style.display = 'flex';
+    group.style.flexShrink = '0';
+
+    widget.items.forEach(item => {
+      const span = document.createElement('span');
+      span.className = 'ticker-item';
+
+      const text = item.artist + '  •  ' +
+                   item.venue + '  •  ' + item.date + '     ★';
+
+      if (item.url && /^https:\/\//i.test(item.url)) {
+        const link = document.createElement('a');
+        link.href = item.url;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        link.style.color = 'white';
+        link.style.textDecoration = 'none';
+        link.textContent = text;
+        span.appendChild(link);
+      } else {
+        span.textContent = text;
+      }
+
+      group.appendChild(span);
+    });
+
+    track.appendChild(group);
+  }
+}
 
     function showPage(page) {
-      document.getElementById('music-page').style.display =
-        page === 'music' ? 'block' : 'none';
-      document.getElementById('media-page').style.display =
-        page === 'media' ? 'block' : 'none';
       const buttons = document.querySelectorAll('.navigation button');
       buttons[0].classList.toggle('active', page === 'music');
       buttons[1].classList.toggle('active', page === 'media');
@@ -269,8 +313,6 @@ async function loadConcerts() {
     setInterval(updateWeather, 15 * 60 * 1000);
     loadConcerts();
     setInterval(loadConcerts, 60 * 60 * 1000);
-    setInterval(() => nextConcert('announced'), 10000);
-    setInterval(() => nextConcert('upcoming'), 10000);
     showPage('music');
   </script>
 </body>
