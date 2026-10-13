@@ -1,17 +1,6 @@
 {
-  "updated": "2026-10-12T18:38:19.136418+00:00",
+  "updated": "2026-10-13T00:42:27.171182+00:00",
   "upcoming": [
-    {
-      "title": "Daughtry at Troy Savings Bank Music Hall",
-      "artists": [
-        "Daughtry"
-      ],
-      "venue": "Troy Savings Bank Music Hall",
-      "date": "2026-10-12T19:00:00",
-      "announced": "2026-06-16T18:15:32Z",
-      "url": "https://www.jambase.com/show/daughtry-troy-savings-bank-music-hall-20261012",
-      "id": "jambase:16527254"
-    },
     {
       "title": "Chest Fever (Tribute to The Band) at Colony",
       "artists": [
@@ -461,9 +450,43 @@
       "announced": "2026-05-20T21:48:34Z",
       "url": "https://www.jambase.com/show/los-lobos-hart-theatre-at-the-egg-20261023",
       "id": "jambase:16337861"
+    },
+    {
+      "title": "Flooding at Tubby’s",
+      "artists": [
+        "Flooding"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-23T19:00:00",
+      "announced": "2026-08-05T16:44:31Z",
+      "url": "https://www.jambase.com/show/flooding-tubbys-20261023",
+      "id": "jambase:16841681"
     }
   ],
   "recent": [
+    {
+      "title": "Yard Sale at Colony",
+      "artists": [
+        "Yard Sale"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-08T19:00:00",
+      "announced": "2026-10-12T19:49:16Z",
+      "url": "https://www.jambase.com/show/yard-sale-colony-20261108",
+      "id": "jambase:17215604"
+    },
+    {
+      "title": "Kiki Cavazos at Colony",
+      "artists": [
+        "Kiki Cavazos",
+        "Jackson and the Janks"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-05T19:00:00",
+      "announced": "2026-10-12T18:56:34Z",
+      "url": "https://www.jambase.com/show/kiki-cavazos-colony-20261105",
+      "id": "jambase:17213915"
+    },
     {
       "title": "Loudon Wainwright III at Bearsville Theater",
       "artists": [
@@ -895,28 +918,6 @@
       "announced": "2026-08-27T21:49:16Z",
       "url": "https://www.jambase.com/show/comeback-kid-the-dairy-field-20261114",
       "id": "jambase:16961954"
-    },
-    {
-      "title": "The Pink Floyd Project at Colony",
-      "artists": [
-        "The Pink Floyd Project"
-      ],
-      "venue": "Colony",
-      "date": "2026-11-07T19:00:00",
-      "announced": "2026-08-26T21:24:26Z",
-      "url": "https://www.jambase.com/show/the-pink-floyd-project-colony-20261107",
-      "id": "jambase:16958058"
-    },
-    {
-      "title": "Bearly Dead at Putnam Place",
-      "artists": [
-        "Bearly Dead"
-      ],
-      "venue": "Putnam Place",
-      "date": "2026-10-23T20:30:00",
-      "announced": "2026-08-26T16:33:10Z",
-      "url": "https://www.jambase.com/show/bearly-dead-putnam-place-20261023",
-      "id": "jambase:16954152"
     }
   ]
 }
