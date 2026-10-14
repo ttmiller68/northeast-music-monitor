@@ -1,17 +1,6 @@
 {
-  "updated": "2026-10-13T18:36:53.242496+00:00",
+  "updated": "2026-10-14T00:51:28.062821+00:00",
   "upcoming": [
-    {
-      "title": "Chest Fever (Tribute to The Band) at Colony",
-      "artists": [
-        "Chest Fever (Tribute to The Band)"
-      ],
-      "venue": "Colony",
-      "date": "2026-10-13T19:00:00",
-      "announced": "2026-08-20T22:26:00Z",
-      "url": "https://www.jambase.com/show/chest-fever-tribute-to-the-band-colony-20261013",
-      "id": "jambase:16930230"
-    },
     {
       "title": "Juma Sultan at Tubby’s",
       "artists": [
@@ -461,6 +450,17 @@
       "announced": "2026-08-05T16:44:31Z",
       "url": "https://www.jambase.com/show/flooding-tubbys-20261023",
       "id": "jambase:16841681"
+    },
+    {
+      "title": "A.J. Croce at Mahaiwe Performing Arts Center",
+      "artists": [
+        "A.J. Croce"
+      ],
+      "venue": "Mahaiwe Performing Arts Center",
+      "date": "2026-10-23T19:30:00",
+      "announced": "2026-05-20T16:55:34Z",
+      "url": "https://www.jambase.com/show/a-j-croce-mahaiwe-performing-arts-center-20261023",
+      "id": "jambase:16333425"
     }
   ],
   "recent": [
