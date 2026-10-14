@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T12:49:28.638907+00:00",
+  "updated": "2026-10-14T18:48:35.030094+00:00",
   "upcoming": [
     {
       "title": "Juma Sultan at Tubby’s",
@@ -465,6 +465,18 @@
   ],
   "recent": [
     {
+      "title": "Space Carnival at Lark Hall",
+      "artists": [
+        "Space Carnival",
+        "Hilltop"
+      ],
+      "venue": "Lark Hall",
+      "date": "2026-10-31T20:00:00",
+      "announced": "2026-10-14T18:36:56Z",
+      "url": "https://www.jambase.com/show/space-carnival-lark-hall-20261031",
+      "id": "jambase:17235507"
+    },
+    {
       "title": "Yard Sale at Colony",
       "artists": [
         "Yard Sale"
@@ -905,19 +917,6 @@
       "announced": "2026-08-31T18:55:26Z",
       "url": "https://www.jambase.com/show/we-used-to-cut-the-grass-no-fun-20261112",
       "id": "jambase:16971175"
-    },
-    {
-      "title": "Comeback Kid at The Dairy Field",
-      "artists": [
-        "Comeback Kid",
-        "Defeater",
-        "Dead Heat"
-      ],
-      "venue": "The Dairy Field",
-      "date": "2026-11-14T18:00:00",
-      "announced": "2026-08-27T21:49:16Z",
-      "url": "https://www.jambase.com/show/comeback-kid-the-dairy-field-20261114",
-      "id": "jambase:16961954"
     }
   ]
 }
