@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:51:45.044608+00:00",
+  "updated": "2026-10-15T18:47:43.391069+00:00",
   "upcoming": [
     {
       "title": "The Tubs at Tubby’s",
@@ -466,6 +466,18 @@
   ],
   "recent": [
     {
+      "title": "Big Deep at Rock City Grind",
+      "artists": [
+        "Big Deep",
+        "Eastern Parkway"
+      ],
+      "venue": "Rock City Grind",
+      "date": "2026-10-29T20:30:00",
+      "announced": "2026-10-15T16:11:07Z",
+      "url": "https://www.jambase.com/show/big-deep-rock-city-grind-20261029",
+      "id": "jambase:17239414"
+    },
+    {
       "title": "Space Carnival at Lark Hall",
       "artists": [
         "Space Carnival",
@@ -907,19 +919,6 @@
       "announced": "2026-08-31T18:55:26Z",
       "url": "https://www.jambase.com/show/we-used-to-cut-the-grass-no-fun-20261112",
       "id": "jambase:16971175"
-    },
-    {
-      "title": "Comeback Kid at The Dairy Field",
-      "artists": [
-        "Comeback Kid",
-        "Defeater",
-        "Dead Heat"
-      ],
-      "venue": "The Dairy Field",
-      "date": "2026-11-14T18:00:00",
-      "announced": "2026-08-27T21:49:16Z",
-      "url": "https://www.jambase.com/show/comeback-kid-the-dairy-field-20261114",
-      "id": "jambase:16961954"
     }
   ]
 }
