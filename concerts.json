@@ -1,39 +1,6 @@
 {
-  "updated": "2026-10-14T18:48:35.030094+00:00",
+  "updated": "2026-10-15T00:49:07.936445+00:00",
   "upcoming": [
-    {
-      "title": "Juma Sultan at Tubby’s",
-      "artists": [
-        "Juma Sultan"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-10-14T19:00:00",
-      "announced": "2026-09-22T19:15:43Z",
-      "url": "https://www.jambase.com/show/juma-sultan-tubbys-20261014",
-      "id": "jambase:17087835"
-    },
-    {
-      "title": "Melvin Seals and JGB at The Egg",
-      "artists": [
-        "Melvin Seals and JGB"
-      ],
-      "venue": "The Egg",
-      "date": "2026-10-14T19:30:00",
-      "announced": "2026-08-05T13:59:51Z",
-      "url": "https://www.jambase.com/show/melvin-seals-and-jgb-the-egg-20261014",
-      "id": "jambase:16840731"
-    },
-    {
-      "title": "Nic Panken at The Local Center for Arts and Culture",
-      "artists": [
-        "Nic Panken"
-      ],
-      "venue": "The Local Center for Arts and Culture",
-      "date": "2026-10-14T19:30:00",
-      "announced": "2026-07-07T16:26:04Z",
-      "url": "https://www.jambase.com/show/nic-panken-the-local-center-for-arts-and-culture-20261014",
-      "id": "jambase:16698656"
-    },
     {
       "title": "The Tubs at Tubby’s",
       "artists": [
@@ -461,6 +428,40 @@
       "announced": "2026-05-20T16:55:34Z",
       "url": "https://www.jambase.com/show/a-j-croce-mahaiwe-performing-arts-center-20261023",
       "id": "jambase:16333425"
+    },
+    {
+      "title": "Built to Spill at Empire Live",
+      "artists": [
+        "Built to Spill",
+        "Quasi"
+      ],
+      "venue": "Empire Live",
+      "date": "2026-10-23T20:00:00",
+      "announced": "2026-06-09T18:35:56Z",
+      "url": "https://www.jambase.com/show/built-to-spill-empire-live-20261023",
+      "id": "jambase:16472625"
+    },
+    {
+      "title": "East Nash Grass at The Local Center for Arts and Culture",
+      "artists": [
+        "East Nash Grass"
+      ],
+      "venue": "The Local Center for Arts and Culture",
+      "date": "2026-10-23T20:00:00",
+      "announced": "2026-07-02T18:44:25Z",
+      "url": "https://www.jambase.com/show/east-nash-grass-the-local-center-for-arts-and-culture-20261023",
+      "id": "jambase:16680068"
+    },
+    {
+      "title": "Bearly Dead at Putnam Place",
+      "artists": [
+        "Bearly Dead"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-23T20:30:00",
+      "announced": "2026-08-26T16:33:10Z",
+      "url": "https://www.jambase.com/show/bearly-dead-putnam-place-20261023",
+      "id": "jambase:16954152"
     }
   ],
   "recent": [
@@ -705,17 +706,6 @@
       "id": "jambase:17090038"
     },
     {
-      "title": "Juma Sultan at Tubby’s",
-      "artists": [
-        "Juma Sultan"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-10-14T19:00:00",
-      "announced": "2026-09-22T19:15:43Z",
-      "url": "https://www.jambase.com/show/juma-sultan-tubbys-20261014",
-      "id": "jambase:17087835"
-    },
-    {
       "title": "T.V. Doctors at Second Act Spirits",
       "artists": [
         "T.V. Doctors"
@@ -917,6 +907,19 @@
       "announced": "2026-08-31T18:55:26Z",
       "url": "https://www.jambase.com/show/we-used-to-cut-the-grass-no-fun-20261112",
       "id": "jambase:16971175"
+    },
+    {
+      "title": "Comeback Kid at The Dairy Field",
+      "artists": [
+        "Comeback Kid",
+        "Defeater",
+        "Dead Heat"
+      ],
+      "venue": "The Dairy Field",
+      "date": "2026-11-14T18:00:00",
+      "announced": "2026-08-27T21:49:16Z",
+      "url": "https://www.jambase.com/show/comeback-kid-the-dairy-field-20261114",
+      "id": "jambase:16961954"
     }
   ]
 }
