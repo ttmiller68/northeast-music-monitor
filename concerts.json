@@ -1,88 +1,6 @@
 {
-  "updated": "2026-10-17T18:38:17.196701+00:00",
+  "updated": "2026-10-18T00:50:37.945166+00:00",
   "upcoming": [
-    {
-      "title": "PeelingFlesh at Empire Live",
-      "artists": [
-        "PeelingFlesh",
-        "Gridiron",
-        "Fatal Realm",
-        "FINAL RESTING PLACE"
-      ],
-      "venue": "Empire Live",
-      "date": "2026-10-17T18:30:00",
-      "announced": "2026-07-30T17:42:32Z",
-      "url": "https://www.jambase.com/show/peelingflesh-empire-live-20261017",
-      "id": "jambase:16813734"
-    },
-    {
-      "title": "Genitorturers at Empire Underground",
-      "artists": [
-        "Genitorturers",
-        "Nathan James"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-10-17T18:30:00",
-      "announced": "2026-08-21T17:32:23Z",
-      "url": "https://www.jambase.com/show/genitorturers-empire-underground-20261017",
-      "id": "jambase:16932715"
-    },
-    {
-      "title": "Jet Jurgensmeyer at Putnam Place",
-      "artists": [
-        "Jet Jurgensmeyer"
-      ],
-      "venue": "Putnam Place",
-      "date": "2026-10-17T18:30:00",
-      "announced": "2026-08-17T20:21:59Z",
-      "url": "https://www.jambase.com/show/jet-jurgensmeyer-putnam-place-20261017",
-      "id": "jambase:16909596"
-    },
-    {
-      "title": "Westerlund//Hagen at Tubby’s",
-      "artists": [
-        "Westerlund//Hagen"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-10-17T19:00:00",
-      "announced": "2026-09-02T19:44:53Z",
-      "url": "https://www.jambase.com/show/westerlund-hagen-tubbys-20261017",
-      "id": "jambase:16989858"
-    },
-    {
-      "title": "Tab Benoit at Assembly",
-      "artists": [
-        "Tab Benoit",
-        "Ghalia Volt"
-      ],
-      "venue": "Assembly",
-      "date": "2026-10-17T20:00:00",
-      "announced": "2026-03-24T17:36:45Z",
-      "url": "https://www.jambase.com/show/tab-benoit-assembly-20261017",
-      "id": "jambase:15943718"
-    },
-    {
-      "title": "REPRISE: A Phish Experience at Lark Hall",
-      "artists": [
-        "REPRISE: A Phish Experience"
-      ],
-      "venue": "Lark Hall",
-      "date": "2026-10-17T20:00:00",
-      "announced": "2026-10-08T19:41:34Z",
-      "url": "https://www.jambase.com/show/reprise-a-phish-experience-lark-hall-20261017",
-      "id": "jambase:17198679"
-    },
-    {
-      "title": "Andes Manta at The Local Center for Arts and Culture",
-      "artists": [
-        "Andes Manta"
-      ],
-      "venue": "The Local Center for Arts and Culture",
-      "date": "2026-10-17T20:00:00",
-      "announced": "2026-07-02T19:06:54Z",
-      "url": "https://www.jambase.com/show/andes-manta-the-local-center-for-arts-and-culture-20261017",
-      "id": "jambase:16680293"
-    },
     {
       "title": "Langhorne Slim at AutoCamp Catskills",
       "artists": [
@@ -468,6 +386,86 @@
       "announced": "2026-08-12T14:21:24Z",
       "url": "https://www.jambase.com/show/the-warped-tour-band-putnam-place-20261024",
       "id": "jambase:16874201"
+    },
+    {
+      "title": "T.V. Doctors at Indian Ladder Farms",
+      "artists": [
+        "T.V. Doctors"
+      ],
+      "venue": "Indian Ladder Farms",
+      "date": "2026-10-25T13:00:00",
+      "announced": "2026-09-08T21:22:57Z",
+      "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261025",
+      "id": "jambase:17005512"
+    },
+    {
+      "title": "Texas Hippie Coalition at Empire Underground",
+      "artists": [
+        "Texas Hippie Coalition",
+        "VaterSon"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-25T19:00:00",
+      "announced": "2026-04-30T23:09:49Z",
+      "url": "https://www.jambase.com/show/texas-hippie-coalition-empire-underground-20261025",
+      "id": "jambase:16210797"
+    },
+    {
+      "title": "Hudson Valley Flyers at Colony",
+      "artists": [
+        "Hudson Valley Flyers"
+      ],
+      "venue": "Colony",
+      "date": "2026-10-25T19:00:00",
+      "announced": "2026-10-05T20:11:09Z",
+      "url": "https://www.jambase.com/show/hudson-valley-flyers-colony-20261025",
+      "id": "jambase:17172947"
+    },
+    {
+      "title": "Beauty School Dropout at Empire Underground",
+      "artists": [
+        "Beauty School Dropout",
+        "No Love For The Middle Child"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-26T19:30:00",
+      "announced": "2026-08-11T20:20:13Z",
+      "url": "https://www.jambase.com/show/beauty-school-dropout-empire-underground-20261026",
+      "id": "jambase:16869491"
+    },
+    {
+      "title": "Jeff Tweedy at Bearsville Theater",
+      "artists": [
+        "Jeff Tweedy",
+        "Case Oats"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-10-26T19:30:00",
+      "announced": "2026-06-09T16:57:54Z",
+      "url": "https://www.jambase.com/show/jeff-tweedy-bearsville-theater-20261026",
+      "id": "jambase:16469321"
+    },
+    {
+      "title": "Midrift at No Fun",
+      "artists": [
+        "Midrift"
+      ],
+      "venue": "No Fun",
+      "date": "2026-10-27T19:00:00",
+      "announced": "2026-09-22T21:11:40Z",
+      "url": "https://www.jambase.com/show/midrift-no-fun-20261027",
+      "id": "jambase:17090038"
+    },
+    {
+      "title": "Ak'chamel at Tubby’s",
+      "artists": [
+        "Ak’chamel"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-27T19:00:00",
+      "announced": "2026-06-17T17:34:36Z",
+      "url": "https://www.jambase.com/show/akchamel-tubbys-20261027",
+      "id": "jambase:16536829"
     }
   ],
   "recent": [
@@ -552,17 +550,6 @@
       "id": "jambase:17206514"
     },
     {
-      "title": "REPRISE: A Phish Experience at Lark Hall",
-      "artists": [
-        "REPRISE: A Phish Experience"
-      ],
-      "venue": "Lark Hall",
-      "date": "2026-10-17T20:00:00",
-      "announced": "2026-10-08T19:41:34Z",
-      "url": "https://www.jambase.com/show/reprise-a-phish-experience-lark-hall-20261017",
-      "id": "jambase:17198679"
-    },
-    {
       "title": "Ani DiFranco at Proctor’s Theatre",
       "artists": [
         "Ani DiFranco",
@@ -608,6 +595,19 @@
       "announced": "2026-10-05T16:55:02Z",
       "url": "https://www.jambase.com/show/wiring-no-fun-20261021",
       "id": "jambase:17168371"
+    },
+    {
+      "title": "Molly Venter at Colony",
+      "artists": [
+        "Molly Venter",
+        "Seth Walker",
+        "Goodnight Moonshine"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-22T19:00:00",
+      "announced": "2026-10-05T16:43:36Z",
+      "url": "https://www.jambase.com/show/molly-venter-colony-20261122",
+      "id": "jambase:17167748"
     },
     {
       "title": "SUMPP at No Fun",
@@ -792,6 +792,17 @@
       "id": "jambase:17048530"
     },
     {
+      "title": "Jason Bonham's Led Zeppelin Evening at Proctor’s Theatre",
+      "artists": [
+        "Jason Bonham’s Led Zeppelin Evening"
+      ],
+      "venue": "Proctor’s Theatre",
+      "date": "2026-11-25T19:30:00",
+      "announced": "2026-09-15T15:20:22Z",
+      "url": "https://www.jambase.com/show/jason-bonhams-led-zeppelin-evening-proctors-theatre-20261125",
+      "id": "jambase:17048218"
+    },
+    {
       "title": "LOCKED SHUT at The Pines Theater",
       "artists": [
         "LOCKED SHUT"
@@ -902,17 +913,6 @@
       "announced": "2026-09-02T23:03:25Z",
       "url": "https://www.jambase.com/show/ally-venable-empire-underground-20261031",
       "id": "jambase:16993235"
-    },
-    {
-      "title": "Westerlund//Hagen at Tubby’s",
-      "artists": [
-        "Westerlund//Hagen"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-10-17T19:00:00",
-      "announced": "2026-09-02T19:44:53Z",
-      "url": "https://www.jambase.com/show/westerlund-hagen-tubbys-20261017",
-      "id": "jambase:16989858"
     },
     {
       "title": "Troy Ramey at Charles R Wood Theater",
