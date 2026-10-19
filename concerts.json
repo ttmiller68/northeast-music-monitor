@@ -1,51 +1,6 @@
 {
-  "updated": "2026-10-18T18:38:54.346941+00:00",
+  "updated": "2026-10-19T00:52:14.277926+00:00",
   "upcoming": [
-    {
-      "title": "Langhorne Slim at AutoCamp Catskills",
-      "artists": [
-        "Langhorne Slim"
-      ],
-      "venue": "AutoCamp Catskills",
-      "date": "2026-10-18T19:00:00",
-      "announced": "2026-08-05T18:01:47Z",
-      "url": "https://www.jambase.com/show/langhorne-slim-autocamp-catskills-20261018",
-      "id": "jambase:16843772"
-    },
-    {
-      "title": "Bandits on the Run at Caffe Lena",
-      "artists": [
-        "Bandits on the Run"
-      ],
-      "venue": "Caffe Lena",
-      "date": "2026-10-18T19:00:00",
-      "announced": "2026-10-03T22:34:08Z",
-      "url": "https://www.jambase.com/show/bandits-on-the-run-caffe-lena-20261018",
-      "id": "jambase:17160011"
-    },
-    {
-      "title": "J. Robbins at Basilica Hudson",
-      "artists": [
-        "J. Robbins",
-        "Sugar"
-      ],
-      "venue": "Basilica Hudson",
-      "date": "2026-10-18T20:00:00",
-      "announced": "2026-01-21T15:28:17Z",
-      "url": "https://www.jambase.com/show/j-robbins-basilica-hudson-20261018",
-      "id": "jambase:15521983"
-    },
-    {
-      "title": "The Band Memo at Empire Underground",
-      "artists": [
-        "The Band Memo"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-10-18T20:00:00",
-      "announced": "2026-08-24T21:35:33Z",
-      "url": "https://www.jambase.com/show/the-band-memo-empire-underground-20261018",
-      "id": "jambase:16942232"
-    },
     {
       "title": "Big Ass Truck I.E. at The Dairy Field",
       "artists": [
@@ -466,6 +421,52 @@
       "announced": "2026-06-17T17:34:36Z",
       "url": "https://www.jambase.com/show/akchamel-tubbys-20261027",
       "id": "jambase:16536829"
+    },
+    {
+      "title": "Jeff Tweedy at Bearsville Theater",
+      "artists": [
+        "Jeff Tweedy",
+        "Case Oats"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-10-27T19:30:00",
+      "announced": "2026-06-09T16:58:23Z",
+      "url": "https://www.jambase.com/show/jeff-tweedy-bearsville-theater-20261027",
+      "id": "jambase:16469440"
+    },
+    {
+      "title": "Holywatr at Empire Underground",
+      "artists": [
+        "Holywatr",
+        "mercury"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-27T20:00:00",
+      "announced": "2026-06-15T22:24:07Z",
+      "url": "https://www.jambase.com/show/holywatr-empire-underground-20261027",
+      "id": "jambase:16521061"
+    },
+    {
+      "title": "Oscar Rossignoli at The Local Center for Arts and Culture",
+      "artists": [
+        "Oscar Rossignoli"
+      ],
+      "venue": "The Local Center for Arts and Culture",
+      "date": "2026-10-29T19:00:00",
+      "announced": "2026-07-02T21:07:38Z",
+      "url": "https://www.jambase.com/show/oscar-rossignoli-the-local-center-for-arts-and-culture-20261029",
+      "id": "jambase:16681306"
+    },
+    {
+      "title": "Scott Bradlee's Postmodern Jukebox at Troy Savings Bank Music Hall",
+      "artists": [
+        "Scott Bradlee’s Postmodern Jukebox"
+      ],
+      "venue": "Troy Savings Bank Music Hall",
+      "date": "2026-10-29T20:00:00",
+      "announced": "2026-05-05T17:49:42Z",
+      "url": "https://www.jambase.com/show/scott-bradlees-postmodern-jukebox-troy-savings-bank-music-hall-20261029",
+      "id": "jambase:16230146"
     }
   ],
   "recent": [
@@ -634,17 +635,6 @@
       "id": "jambase:17161438"
     },
     {
-      "title": "Bandits on the Run at Caffe Lena",
-      "artists": [
-        "Bandits on the Run"
-      ],
-      "venue": "Caffe Lena",
-      "date": "2026-10-18T19:00:00",
-      "announced": "2026-10-03T22:34:08Z",
-      "url": "https://www.jambase.com/show/bandits-on-the-run-caffe-lena-20261018",
-      "id": "jambase:17160011"
-    },
-    {
       "title": "The NolaNauts at Putnam Place",
       "artists": [
         "The NolaNauts",
@@ -747,6 +737,17 @@
       "id": "jambase:17070662"
     },
     {
+      "title": "Max Creek at Infinity Hall",
+      "artists": [
+        "Max Creek"
+      ],
+      "venue": "Infinity Hall",
+      "date": "2026-11-27T20:00:00",
+      "announced": "2026-09-17T18:43:15Z",
+      "url": "https://www.jambase.com/show/max-creek-infinity-hall-20261127",
+      "id": "jambase:17066633"
+    },
+    {
       "title": "Little Lies: A Tribute to Fleetwood Mac at Putnam Place",
       "artists": [
         "Little Lies: A Tribute to Fleetwood Mac"
@@ -779,6 +780,17 @@
       "announced": "2026-09-15T22:12:33Z",
       "url": "https://www.jambase.com/show/rachael-yamagata-swyer-theatre-at-the-egg-20261118",
       "id": "jambase:17055633"
+    },
+    {
+      "title": "The Big Takeover at Colony",
+      "artists": [
+        "The Big Takeover"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-27T21:00:00",
+      "announced": "2026-09-15T17:08:55Z",
+      "url": "https://www.jambase.com/show/the-big-takeover-colony-20261127",
+      "id": "jambase:17050655"
     },
     {
       "title": "Trey Anastasio Band at Palace Theatre",
@@ -881,6 +893,17 @@
       "id": "jambase:17005510"
     },
     {
+      "title": "Pulsifier at Empire Underground",
+      "artists": [
+        "Pulsifier"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-11-30T18:30:00",
+      "announced": "2026-09-08T20:18:51Z",
+      "url": "https://www.jambase.com/show/pulsifier-empire-underground-20261130",
+      "id": "jambase:17003796"
+    },
+    {
       "title": "Moon Tooth at Empire Underground",
       "artists": [
         "Moon Tooth",
@@ -902,28 +925,6 @@
       "announced": "2026-09-02T23:40:31Z",
       "url": "https://www.jambase.com/show/the-erotics-empire-underground-20261024",
       "id": "jambase:16993691"
-    },
-    {
-      "title": "Ally Venable at Empire Underground",
-      "artists": [
-        "Ally Venable"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-10-31T20:00:00",
-      "announced": "2026-09-02T23:03:25Z",
-      "url": "https://www.jambase.com/show/ally-venable-empire-underground-20261031",
-      "id": "jambase:16993235"
-    },
-    {
-      "title": "Troy Ramey at Charles R Wood Theater",
-      "artists": [
-        "Troy Ramey"
-      ],
-      "venue": "Charles R Wood Theater",
-      "date": "2026-10-22T20:30:00",
-      "announced": "2026-09-01T20:20:01Z",
-      "url": "https://www.jambase.com/show/troy-ramey-charles-r-wood-theater-20261022",
-      "id": "jambase:16981776"
     }
   ]
 }
