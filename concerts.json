@@ -1,68 +1,6 @@
 {
-  "updated": "2026-10-20T18:45:24.346066+00:00",
+  "updated": "2026-10-21T00:51:19.936300+00:00",
   "upcoming": [
-    {
-      "title": "Big Ass Truck I.E. at The Dairy Field",
-      "artists": [
-        "Big Ass Truck I.E.",
-        "Chamber",
-        "Mugshot"
-      ],
-      "venue": "The Dairy Field",
-      "date": "2026-10-20T18:00:00",
-      "announced": "2026-08-11T22:35:09Z",
-      "url": "https://www.jambase.com/show/big-ass-truck-i-e-the-dairy-field-20261020",
-      "id": "jambase:16870445"
-    },
-    {
-      "title": "Suzanne Vega at BOMBYX Center for Arts & Equity",
-      "artists": [
-        "Suzanne Vega"
-      ],
-      "venue": "BOMBYX Center for Arts & Equity",
-      "date": "2026-10-20T19:00:00",
-      "announced": "2026-06-23T16:51:41Z",
-      "url": "https://www.jambase.com/show/suzanne-vega-bombyx-center-for-arts-equity-20261020",
-      "id": "jambase:16566426"
-    },
-    {
-      "title": "Earl Sweatshirt at Mass MoCA",
-      "artists": [
-        "Earl Sweatshirt",
-        "MIKE",
-        "SURF GANG",
-        "Anysia Kym"
-      ],
-      "venue": "Mass MoCA",
-      "date": "2026-10-20T20:00:00",
-      "announced": "2026-07-09T20:24:02Z",
-      "url": "https://www.jambase.com/show/earl-sweatshirt-mass-moca-20261020",
-      "id": "jambase:16717304"
-    },
-    {
-      "title": "Collective Soul at Palace Theatre",
-      "artists": [
-        "Collective Soul",
-        "Plush"
-      ],
-      "venue": "Palace Theatre",
-      "date": "2026-10-20T20:00:00",
-      "announced": "2026-06-30T22:16:03Z",
-      "url": "https://www.jambase.com/show/collective-soul-palace-theatre-20261020",
-      "id": "jambase:16646417"
-    },
-    {
-      "title": "Trombone Shorty & Orleans Avenue at Troy Savings Bank Music Hall",
-      "artists": [
-        "Trombone Shorty & Orleans Avenue",
-        "Abraham Alexander"
-      ],
-      "venue": "Troy Savings Bank Music Hall",
-      "date": "2026-10-20T20:00:00",
-      "announced": "2026-07-21T17:12:21Z",
-      "url": "https://www.jambase.com/show/trombone-shorty-orleans-avenue-troy-savings-bank-music-hall-20261020",
-      "id": "jambase:16770922"
-    },
     {
       "title": "He Is Legend at Empire Underground",
       "artists": [
@@ -467,9 +405,77 @@
       "announced": "2026-05-05T17:49:42Z",
       "url": "https://www.jambase.com/show/scott-bradlees-postmodern-jukebox-troy-savings-bank-music-hall-20261029",
       "id": "jambase:16230146"
+    },
+    {
+      "title": "Shakedown Citi at Buttonball Barn",
+      "artists": [
+        "Shakedown Citi"
+      ],
+      "venue": "Buttonball Barn",
+      "date": "2026-10-29T20:00:00",
+      "announced": "2026-08-21T00:13:14Z",
+      "url": "https://www.jambase.com/show/shakedown-citi-buttonball-barn-20261029",
+      "id": "jambase:16930339"
+    },
+    {
+      "title": "Big Deep at Rock City Grind",
+      "artists": [
+        "Big Deep",
+        "Eastern Parkway"
+      ],
+      "venue": "Rock City Grind",
+      "date": "2026-10-29T20:30:00",
+      "announced": "2026-10-15T16:11:07Z",
+      "url": "https://www.jambase.com/show/big-deep-rock-city-grind-20261029",
+      "id": "jambase:17239414"
+    },
+    {
+      "title": "Gary Stewart at Tubby’s",
+      "artists": [
+        "Gary Stewart"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-10-30T18:30:00",
+      "announced": "2026-09-11T21:15:16Z",
+      "url": "https://www.jambase.com/show/gary-stewart-tubbys-20261030",
+      "id": "jambase:17033607"
+    },
+    {
+      "title": "Carsie Blanton at Colony",
+      "artists": [
+        "Carsie Blanton",
+        "The Burning Hell"
+      ],
+      "venue": "Colony",
+      "date": "2026-10-30T19:00:00",
+      "announced": "2026-04-15T18:45:04Z",
+      "url": "https://www.jambase.com/show/carsie-blanton-colony-20261030",
+      "id": "jambase:16083722"
+    },
+    {
+      "title": "Shining Star - Earth Wind & Fire Tribute at Rivers Casino & Resort",
+      "artists": [
+        "Shining Star – Earth Wind & Fire Tribute"
+      ],
+      "venue": "Rivers Casino & Resort",
+      "date": "2026-10-30T19:00:00",
+      "announced": "2026-03-16T21:54:58Z",
+      "url": "https://www.jambase.com/show/shining-star-earth-wind-resort-20261030",
+      "id": "jambase:15902554"
     }
   ],
   "recent": [
+    {
+      "title": "Garbaggio at Tubby’s",
+      "artists": [
+        "Garbaggio"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-11-19T19:00:00",
+      "announced": "2026-10-20T21:55:23Z",
+      "url": "https://www.jambase.com/show/garbaggio-tubbys-20261119",
+      "id": "jambase:17271299"
+    },
     {
       "title": "Dominick & The Family Band at Tubby’s",
       "artists": [
@@ -562,6 +568,17 @@
       "id": "jambase:17206514"
     },
     {
+      "title": "Frank Hurricane at Tubby’s",
+      "artists": [
+        "Frank Hurricane"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-12-02T19:00:00",
+      "announced": "2026-10-09T16:26:30Z",
+      "url": "https://www.jambase.com/show/frank-hurricane-tubbys-20261202",
+      "id": "jambase:17205109"
+    },
+    {
       "title": "Ani DiFranco at Proctor’s Theatre",
       "artists": [
         "Ani DiFranco",
@@ -572,6 +589,18 @@
       "announced": "2026-10-07T17:04:57Z",
       "url": "https://www.jambase.com/show/ani-difranco-proctors-theatre-20261113",
       "id": "jambase:17189826"
+    },
+    {
+      "title": "Ritual Arcana at Tubby’s",
+      "artists": [
+        "Ritual Arcana",
+        "Sun Voyager"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-12-03T19:00:00",
+      "announced": "2026-10-06T21:32:41Z",
+      "url": "https://www.jambase.com/show/ritual-arcana-sun-voyager-tubbys-20261203",
+      "id": "jambase:17185397"
     },
     {
       "title": "The Bobcats at Colony",
@@ -891,40 +920,6 @@
       "announced": "2026-09-08T21:22:57Z",
       "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261025",
       "id": "jambase:17005512"
-    },
-    {
-      "title": "T.V. Doctors at Indian Ladder Farms",
-      "artists": [
-        "T.V. Doctors"
-      ],
-      "venue": "Indian Ladder Farms",
-      "date": "2026-10-24T13:00:00",
-      "announced": "2026-09-08T21:22:56Z",
-      "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261024",
-      "id": "jambase:17005510"
-    },
-    {
-      "title": "Moon Tooth at Empire Underground",
-      "artists": [
-        "Moon Tooth",
-        "Cryptodira"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-11-21T18:30:00",
-      "announced": "2026-09-07T21:40:13Z",
-      "url": "https://www.jambase.com/show/moon-tooth-empire-underground-20261121",
-      "id": "jambase:16999268"
-    },
-    {
-      "title": "The Erotics at Empire Underground",
-      "artists": [
-        "The Erotics"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-10-24T18:30:00",
-      "announced": "2026-09-02T23:40:31Z",
-      "url": "https://www.jambase.com/show/the-erotics-empire-underground-20261024",
-      "id": "jambase:16993691"
     }
   ]
 }
