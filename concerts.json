@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T12:50:09.280296+00:00",
+  "updated": "2026-10-21T18:46:30.472024+00:00",
   "upcoming": [
     {
       "title": "He Is Legend at Empire Underground",
@@ -488,6 +488,17 @@
       "id": "jambase:17259217"
     },
     {
+      "title": "Richard Marx at Mahaiwe Performing Arts Center",
+      "artists": [
+        "Richard Marx"
+      ],
+      "venue": "Mahaiwe Performing Arts Center",
+      "date": "2026-12-04T20:00:00",
+      "announced": "2026-10-16T17:35:51Z",
+      "url": "https://www.jambase.com/show/richard-marx-mahaiwe-performing-arts-center-20261204",
+      "id": "jambase:17247869"
+    },
+    {
       "title": "Big Deep at Rock City Grind",
       "artists": [
         "Big Deep",
@@ -909,17 +920,6 @@
       "announced": "2026-09-09T17:23:48Z",
       "url": "https://www.jambase.com/show/kelsey-waldon-assembly-20261111",
       "id": "jambase:17014273"
-    },
-    {
-      "title": "T.V. Doctors at Indian Ladder Farms",
-      "artists": [
-        "T.V. Doctors"
-      ],
-      "venue": "Indian Ladder Farms",
-      "date": "2026-10-25T13:00:00",
-      "announced": "2026-09-08T21:22:57Z",
-      "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261025",
-      "id": "jambase:17005512"
     }
   ]
 }
