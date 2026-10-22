@@ -1,66 +1,6 @@
 {
-  "updated": "2026-10-21T18:46:30.472024+00:00",
+  "updated": "2026-10-22T00:51:38.178891+00:00",
   "upcoming": [
-    {
-      "title": "He Is Legend at Empire Underground",
-      "artists": [
-        "He Is Legend",
-        "In Angles",
-        "Excide"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-10-21T18:30:00",
-      "announced": "2026-08-13T18:04:36Z",
-      "url": "https://www.jambase.com/show/he-is-legend-empire-underground-20261021",
-      "id": "jambase:16882400"
-    },
-    {
-      "title": "Wiring at No Fun",
-      "artists": [
-        "Wiring",
-        "Fib",
-        "Bruiser and Bicycle"
-      ],
-      "venue": "No Fun",
-      "date": "2026-10-21T19:00:00",
-      "announced": "2026-10-05T16:55:02Z",
-      "url": "https://www.jambase.com/show/wiring-no-fun-20261021",
-      "id": "jambase:17168371"
-    },
-    {
-      "title": "The Bobcats at Colony",
-      "artists": [
-        "The Bobcats"
-      ],
-      "venue": "Colony",
-      "date": "2026-10-21T19:00:00",
-      "announced": "2026-10-05T20:11:35Z",
-      "url": "https://www.jambase.com/show/the-bobcats-colony-20261021",
-      "id": "jambase:17173066"
-    },
-    {
-      "title": "Trapt at Putnam Place",
-      "artists": [
-        "Trapt"
-      ],
-      "venue": "Putnam Place",
-      "date": "2026-10-21T20:00:00",
-      "announced": "2026-03-31T19:54:57Z",
-      "url": "https://www.jambase.com/show/trapt-putnam-place-20261021",
-      "id": "jambase:15989093"
-    },
-    {
-      "title": "All Them Witches at Empire Live",
-      "artists": [
-        "All Them Witches",
-        "Emma Ruth Rundle"
-      ],
-      "venue": "Empire Live",
-      "date": "2026-10-21T20:00:00",
-      "announced": "2026-04-27T15:11:35Z",
-      "url": "https://www.jambase.com/show/all-them-witches-empire-live-20261021",
-      "id": "jambase:16147453"
-    },
     {
       "title": "The Steel Wheels at Colony",
       "artists": [
@@ -462,6 +402,63 @@
       "announced": "2026-03-16T21:54:58Z",
       "url": "https://www.jambase.com/show/shining-star-earth-wind-resort-20261030",
       "id": "jambase:15902554"
+    },
+    {
+      "title": "Judah & The Lion at Empire Live",
+      "artists": [
+        "Judah & The Lion"
+      ],
+      "venue": "Empire Live",
+      "date": "2026-10-30T19:30:00",
+      "announced": "2026-06-12T19:15:28Z",
+      "url": "https://www.jambase.com/show/judah-the-lion-empire-live-20261030",
+      "id": "jambase:16509208"
+    },
+    {
+      "title": "Jeff Tweedy at Mahaiwe Performing Arts Center",
+      "artists": [
+        "Jeff Tweedy",
+        "Case Oats"
+      ],
+      "venue": "Mahaiwe Performing Arts Center",
+      "date": "2026-10-30T19:30:00",
+      "announced": "2026-06-09T16:58:56Z",
+      "url": "https://www.jambase.com/show/jeff-tweedy-mahaiwe-performing-arts-center-20261030",
+      "id": "jambase:16469455"
+    },
+    {
+      "title": "Third Eye Blind at Basilica Hudson",
+      "artists": [
+        "Third Eye Blind"
+      ],
+      "venue": "Basilica Hudson",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-08-11T19:39:22Z",
+      "url": "https://www.jambase.com/show/third-eye-blind-basilica-hudson-20261030",
+      "id": "jambase:16868467"
+    },
+    {
+      "title": "St. Vincent at Bearsville Theater",
+      "artists": [
+        "St. Vincent"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-10-09T17:28:39Z",
+      "url": "https://www.jambase.com/show/st-vincent-bearsville-theater-20261030",
+      "id": "jambase:17206514"
+    },
+    {
+      "title": "Rasputina at TEMPO Performing Arts Center",
+      "artists": [
+        "Rasputina",
+        "Dust Bowl Faeries"
+      ],
+      "venue": "TEMPO Performing Arts Center",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-05-14T16:28:55Z",
+      "url": "https://www.jambase.com/show/rasputina-tempo-performing-arts-center-20261030",
+      "id": "jambase:16295929"
     }
   ],
   "recent": [
@@ -523,6 +520,28 @@
       "id": "jambase:17235507"
     },
     {
+      "title": "Moon Mullins at Tubby’s",
+      "artists": [
+        "Moon Mullins"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-12-04T19:00:00",
+      "announced": "2026-10-14T15:53:20Z",
+      "url": "https://www.jambase.com/show/moon-mullins-tubbys-20261204",
+      "id": "jambase:17231409"
+    },
+    {
+      "title": "Super Trans Am at Cohoes Music Hall",
+      "artists": [
+        "Super Trans Am"
+      ],
+      "venue": "Cohoes Music Hall",
+      "date": "2026-12-04T19:30:00",
+      "announced": "2026-10-12T22:24:37Z",
+      "url": "https://www.jambase.com/show/super-trans-am-cohoes-music-hall-20261204",
+      "id": "jambase:17217369"
+    },
+    {
       "title": "Yard Sale at Colony",
       "artists": [
         "Yard Sale"
@@ -544,6 +563,17 @@
       "announced": "2026-10-12T18:56:34Z",
       "url": "https://www.jambase.com/show/kiki-cavazos-colony-20261105",
       "id": "jambase:17213915"
+    },
+    {
+      "title": "Martin Sexton at Bearsville Theater",
+      "artists": [
+        "Martin Sexton"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-12-04T20:00:00",
+      "announced": "2026-10-12T18:44:53Z",
+      "url": "https://www.jambase.com/show/martin-sexton-bearsville-theater-20261204",
+      "id": "jambase:17213406"
     },
     {
       "title": "Loudon Wainwright III at Bearsville Theater",
@@ -590,6 +620,17 @@
       "id": "jambase:17205109"
     },
     {
+      "title": "Labiahead (Tribute to Radiohead) at Assembly",
+      "artists": [
+        "Labiahead (Tribute to Radiohead)"
+      ],
+      "venue": "Assembly",
+      "date": "2026-12-04T20:00:00",
+      "announced": "2026-10-07T20:18:16Z",
+      "url": "https://www.jambase.com/show/labiahead-tribute-to-radiohead-assembly-20261204",
+      "id": "jambase:17192218"
+    },
+    {
       "title": "Ani DiFranco at Proctor’s Theatre",
       "artists": [
         "Ani DiFranco",
@@ -614,17 +655,6 @@
       "id": "jambase:17185397"
     },
     {
-      "title": "The Bobcats at Colony",
-      "artists": [
-        "The Bobcats"
-      ],
-      "venue": "Colony",
-      "date": "2026-10-21T19:00:00",
-      "announced": "2026-10-05T20:11:35Z",
-      "url": "https://www.jambase.com/show/the-bobcats-colony-20261021",
-      "id": "jambase:17173066"
-    },
-    {
       "title": "Hudson Valley Flyers at Colony",
       "artists": [
         "Hudson Valley Flyers"
@@ -634,19 +664,6 @@
       "announced": "2026-10-05T20:11:09Z",
       "url": "https://www.jambase.com/show/hudson-valley-flyers-colony-20261025",
       "id": "jambase:17172947"
-    },
-    {
-      "title": "Wiring at No Fun",
-      "artists": [
-        "Wiring",
-        "Fib",
-        "Bruiser and Bicycle"
-      ],
-      "venue": "No Fun",
-      "date": "2026-10-21T19:00:00",
-      "announced": "2026-10-05T16:55:02Z",
-      "url": "https://www.jambase.com/show/wiring-no-fun-20261021",
-      "id": "jambase:17168371"
     },
     {
       "title": "Molly Venter at Colony",
@@ -897,29 +914,6 @@
       "announced": "2026-09-11T21:15:14Z",
       "url": "https://www.jambase.com/show/los-cumpleanos-tubbys-20261113",
       "id": "jambase:17033596"
-    },
-    {
-      "title": "Pink Stiletto at Tubby’s",
-      "artists": [
-        "Pink Stiletto",
-        "MVTANT"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-11-07T19:00:00",
-      "announced": "2026-09-11T18:21:55Z",
-      "url": "https://www.jambase.com/show/pink-stiletto-mvtant-tubbys-20261107",
-      "id": "jambase:17030555"
-    },
-    {
-      "title": "Kelsey Waldon at Assembly",
-      "artists": [
-        "Kelsey Waldon"
-      ],
-      "venue": "Assembly",
-      "date": "2026-11-11T20:00:00",
-      "announced": "2026-09-09T17:23:48Z",
-      "url": "https://www.jambase.com/show/kelsey-waldon-assembly-20261111",
-      "id": "jambase:17014273"
     }
   ]
 }
