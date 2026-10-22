@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T12:50:16.184945+00:00",
+  "updated": "2026-10-22T18:46:07.204281+00:00",
   "upcoming": [
     {
       "title": "The Steel Wheels at Colony",
@@ -463,6 +463,17 @@
   ],
   "recent": [
     {
+      "title": "The Naghash Ensemble at Universal Preservation Hall",
+      "artists": [
+        "The Naghash Ensemble"
+      ],
+      "venue": "Universal Preservation Hall",
+      "date": "2026-11-05T19:30:00",
+      "announced": "2026-10-22T16:54:10Z",
+      "url": "https://www.jambase.com/show/the-naghash-ensemble-universal-preservation-hall-20261105",
+      "id": "jambase:17283750"
+    },
+    {
       "title": "Garbaggio at Tubby’s",
       "artists": [
         "Garbaggio"
@@ -529,17 +540,6 @@
       "announced": "2026-10-14T15:53:20Z",
       "url": "https://www.jambase.com/show/moon-mullins-tubbys-20261204",
       "id": "jambase:17231409"
-    },
-    {
-      "title": "Super Trans Am at Cohoes Music Hall",
-      "artists": [
-        "Super Trans Am"
-      ],
-      "venue": "Cohoes Music Hall",
-      "date": "2026-12-04T19:30:00",
-      "announced": "2026-10-12T22:24:37Z",
-      "url": "https://www.jambase.com/show/super-trans-am-cohoes-music-hall-20261204",
-      "id": "jambase:17217369"
     },
     {
       "title": "Yard Sale at Colony",
