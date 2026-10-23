@@ -1,63 +1,6 @@
 {
-  "updated": "2026-10-22T18:46:07.204281+00:00",
+  "updated": "2026-10-23T00:53:47.928641+00:00",
   "upcoming": [
-    {
-      "title": "The Steel Wheels at Colony",
-      "artists": [
-        "The Steel Wheels",
-        "Damn Tall Buildings"
-      ],
-      "venue": "Colony",
-      "date": "2026-10-22T19:00:00",
-      "announced": "2026-06-15T17:26:26Z",
-      "url": "https://www.jambase.com/show/the-steel-wheels-colony-20261022",
-      "id": "jambase:16513670"
-    },
-    {
-      "title": "June McDoom at Tubby’s",
-      "artists": [
-        "June McDoom"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-10-22T19:00:00",
-      "announced": "2026-08-04T15:55:57Z",
-      "url": "https://www.jambase.com/show/june-mcdoom-tubbys-20261022",
-      "id": "jambase:16833597"
-    },
-    {
-      "title": "Dizgo at Bearsville Theater",
-      "artists": [
-        "Dizgo",
-        "Kale"
-      ],
-      "venue": "Bearsville Theater",
-      "date": "2026-10-22T19:00:00",
-      "announced": "2026-05-20T22:58:09Z",
-      "url": "https://www.jambase.com/show/dizgo-bearsville-theater-20261022",
-      "id": "jambase:16340515"
-    },
-    {
-      "title": "Skeleton Crewe at Putnam Place",
-      "artists": [
-        "Skeleton Crewe"
-      ],
-      "venue": "Putnam Place",
-      "date": "2026-10-22T20:00:00",
-      "announced": "2026-08-11T14:03:49Z",
-      "url": "https://www.jambase.com/show/skeleton-crewe-putnam-place-20261022",
-      "id": "jambase:16867524"
-    },
-    {
-      "title": "Troy Ramey at Charles R Wood Theater",
-      "artists": [
-        "Troy Ramey"
-      ],
-      "venue": "Charles R Wood Theater",
-      "date": "2026-10-22T20:30:00",
-      "announced": "2026-09-01T20:20:01Z",
-      "url": "https://www.jambase.com/show/troy-ramey-charles-r-wood-theater-20261022",
-      "id": "jambase:16981776"
-    },
     {
       "title": "Deana Carter at Charles Wood Theater",
       "artists": [
@@ -459,9 +402,78 @@
       "announced": "2026-05-14T16:28:55Z",
       "url": "https://www.jambase.com/show/rasputina-tempo-performing-arts-center-20261030",
       "id": "jambase:16295929"
+    },
+    {
+      "title": "Brooklyn Rider at The Local Center for Arts and Culture",
+      "artists": [
+        "Brooklyn Rider"
+      ],
+      "venue": "The Local Center for Arts and Culture",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-07-02T21:07:19Z",
+      "url": "https://www.jambase.com/show/brooklyn-rider-the-local-center-for-arts-and-culture-20261030",
+      "id": "jambase:16681250"
+    },
+    {
+      "title": "Big Shrimp at Ophelia’s on Broadway",
+      "artists": [
+        "Big Shrimp"
+      ],
+      "venue": "Ophelia’s on Broadway",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-08-12T21:35:03Z",
+      "url": "https://www.jambase.com/show/big-shrimp-ophelias-on-broadway-20261030",
+      "id": "jambase:16877825"
+    },
+    {
+      "title": "Shakedown Citi at Infinity Hall",
+      "artists": [
+        "Shakedown Citi"
+      ],
+      "venue": "Infinity Hall",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-08-21T00:17:30Z",
+      "url": "https://www.jambase.com/show/shakedown-citi-infinity-hall-20261030",
+      "id": "jambase:16930344"
+    },
+    {
+      "title": "Dead Again at Putnam Place",
+      "artists": [
+        "Dead Again",
+        "Issues (Tribute to Korn)"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-30T20:00:00",
+      "announced": "2026-09-23T16:00:25Z",
+      "url": "https://www.jambase.com/show/dead-again-putnam-place-20261030",
+      "id": "jambase:17091940"
+    },
+    {
+      "title": "pheel. at Slidin Dirty",
+      "artists": [
+        "pheel.",
+        "Thought Process",
+        "Father Figure"
+      ],
+      "venue": "Slidin Dirty",
+      "date": "2026-10-31T19:00:00",
+      "announced": "2026-08-13T18:37:23Z",
+      "url": "https://www.jambase.com/show/pheel-slidin-dirty-20261031",
+      "id": "jambase:16882833"
     }
   ],
   "recent": [
+    {
+      "title": "Hudson Valley Flyers at Colony",
+      "artists": [
+        "Hudson Valley Flyers"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-29T19:00:00",
+      "announced": "2026-10-22T22:03:01Z",
+      "url": "https://www.jambase.com/show/hudson-valley-flyers-colony-20261129",
+      "id": "jambase:17286993"
+    },
     {
       "title": "The Naghash Ensemble at Universal Preservation Hall",
       "artists": [
@@ -540,6 +552,17 @@
       "announced": "2026-10-14T15:53:20Z",
       "url": "https://www.jambase.com/show/moon-mullins-tubbys-20261204",
       "id": "jambase:17231409"
+    },
+    {
+      "title": "Super Trans Am at Cohoes Music Hall",
+      "artists": [
+        "Super Trans Am"
+      ],
+      "venue": "Cohoes Music Hall",
+      "date": "2026-12-04T19:30:00",
+      "announced": "2026-10-12T22:24:37Z",
+      "url": "https://www.jambase.com/show/super-trans-am-cohoes-music-hall-20261204",
+      "id": "jambase:17217369"
     },
     {
       "title": "Yard Sale at Colony",
@@ -892,28 +915,6 @@
       "announced": "2026-09-14T18:35:41Z",
       "url": "https://www.jambase.com/show/locked-shut-the-pines-theater-20261114",
       "id": "jambase:17037814"
-    },
-    {
-      "title": "Gary Stewart at Tubby’s",
-      "artists": [
-        "Gary Stewart"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-10-30T18:30:00",
-      "announced": "2026-09-11T21:15:16Z",
-      "url": "https://www.jambase.com/show/gary-stewart-tubbys-20261030",
-      "id": "jambase:17033607"
-    },
-    {
-      "title": "Los Cumpleaños at Tubby’s",
-      "artists": [
-        "Los Cumpleaños"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-11-13T19:00:00",
-      "announced": "2026-09-11T21:15:14Z",
-      "url": "https://www.jambase.com/show/los-cumpleanos-tubbys-20261113",
-      "id": "jambase:17033596"
     }
   ]
 }
