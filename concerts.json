@@ -1,84 +1,6 @@
 {
-  "updated": "2026-10-23T18:47:25.484107+00:00",
+  "updated": "2026-10-24T00:56:25.340566+00:00",
   "upcoming": [
-    {
-      "title": "Deana Carter at Charles Wood Theater",
-      "artists": [
-        "Deana Carter"
-      ],
-      "venue": "Charles Wood Theater",
-      "date": "2026-10-23T19:00:00",
-      "announced": "2026-08-05T18:52:05Z",
-      "url": "https://www.jambase.com/show/deana-carter-charles-wood-theater-20261023",
-      "id": "jambase:16845369"
-    },
-    {
-      "title": "Los Lobos at Hart Theatre at The Egg",
-      "artists": [
-        "Los Lobos"
-      ],
-      "venue": "Hart Theatre at The Egg",
-      "date": "2026-10-23T19:00:00",
-      "announced": "2026-05-20T21:48:34Z",
-      "url": "https://www.jambase.com/show/los-lobos-hart-theatre-at-the-egg-20261023",
-      "id": "jambase:16337861"
-    },
-    {
-      "title": "Flooding at Tubby’s",
-      "artists": [
-        "Flooding"
-      ],
-      "venue": "Tubby’s",
-      "date": "2026-10-23T19:00:00",
-      "announced": "2026-08-05T16:44:31Z",
-      "url": "https://www.jambase.com/show/flooding-tubbys-20261023",
-      "id": "jambase:16841681"
-    },
-    {
-      "title": "A.J. Croce at Mahaiwe Performing Arts Center",
-      "artists": [
-        "A.J. Croce"
-      ],
-      "venue": "Mahaiwe Performing Arts Center",
-      "date": "2026-10-23T19:30:00",
-      "announced": "2026-05-20T16:55:34Z",
-      "url": "https://www.jambase.com/show/a-j-croce-mahaiwe-performing-arts-center-20261023",
-      "id": "jambase:16333425"
-    },
-    {
-      "title": "Built to Spill at Empire Live",
-      "artists": [
-        "Built to Spill",
-        "Quasi"
-      ],
-      "venue": "Empire Live",
-      "date": "2026-10-23T20:00:00",
-      "announced": "2026-06-09T18:35:56Z",
-      "url": "https://www.jambase.com/show/built-to-spill-empire-live-20261023",
-      "id": "jambase:16472625"
-    },
-    {
-      "title": "East Nash Grass at The Local Center for Arts and Culture",
-      "artists": [
-        "East Nash Grass"
-      ],
-      "venue": "The Local Center for Arts and Culture",
-      "date": "2026-10-23T20:00:00",
-      "announced": "2026-07-02T18:44:25Z",
-      "url": "https://www.jambase.com/show/east-nash-grass-the-local-center-for-arts-and-culture-20261023",
-      "id": "jambase:16680068"
-    },
-    {
-      "title": "Bearly Dead at Putnam Place",
-      "artists": [
-        "Bearly Dead"
-      ],
-      "venue": "Putnam Place",
-      "date": "2026-10-23T20:30:00",
-      "announced": "2026-08-26T16:33:10Z",
-      "url": "https://www.jambase.com/show/bearly-dead-putnam-place-20261023",
-      "id": "jambase:16954152"
-    },
     {
       "title": "Sam Grisman Project at Griffin House",
       "artists": [
@@ -460,6 +382,87 @@
       "announced": "2026-08-13T18:37:23Z",
       "url": "https://www.jambase.com/show/pheel-slidin-dirty-20261031",
       "id": "jambase:16882833"
+    },
+    {
+      "title": "God Street Wine at Bearsville Theater",
+      "artists": [
+        "God Street Wine"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-10-31T19:00:00",
+      "announced": "2026-08-25T16:51:53Z",
+      "url": "https://www.jambase.com/show/god-street-wine-bearsville-theater-20261031",
+      "id": "jambase:16946002"
+    },
+    {
+      "title": "Ally Venable at Empire Underground",
+      "artists": [
+        "Ally Venable"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-10-31T20:00:00",
+      "announced": "2026-09-02T23:03:25Z",
+      "url": "https://www.jambase.com/show/ally-venable-empire-underground-20261031",
+      "id": "jambase:16993235"
+    },
+    {
+      "title": "Space Carnival at Lark Hall",
+      "artists": [
+        "Space Carnival",
+        "Hilltop"
+      ],
+      "venue": "Lark Hall",
+      "date": "2026-10-31T20:00:00",
+      "announced": "2026-10-14T18:36:56Z",
+      "url": "https://www.jambase.com/show/space-carnival-lark-hall-20261031",
+      "id": "jambase:17235507"
+    },
+    {
+      "title": "The NolaNauts at Putnam Place",
+      "artists": [
+        "The NolaNauts",
+        "Tops of Trees"
+      ],
+      "venue": "Putnam Place",
+      "date": "2026-10-31T20:00:00",
+      "announced": "2026-09-28T18:55:20Z",
+      "url": "https://www.jambase.com/show/the-nolanauts-putnam-place-20261031",
+      "id": "jambase:17129311"
+    },
+    {
+      "title": "Rudresh Mahanthappa at The Local Center for Arts and Culture",
+      "artists": [
+        "Rudresh Mahanthappa"
+      ],
+      "venue": "The Local Center for Arts and Culture",
+      "date": "2026-11-01T17:00:00",
+      "announced": "2026-07-02T19:06:56Z",
+      "url": "https://www.jambase.com/show/rudresh-mahanthappa-the-local-center-for-arts-and-culture-20261101",
+      "id": "jambase:16680299"
+    },
+    {
+      "title": "In Her Own Words at Empire Underground",
+      "artists": [
+        "In Her Own Words",
+        "Every Avenue",
+        "Public Works"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-11-01T19:30:00",
+      "announced": "2026-05-18T22:11:37Z",
+      "url": "https://www.jambase.com/show/in-her-own-words-empire-underground-20261101",
+      "id": "jambase:16312230"
+    },
+    {
+      "title": "Leenalchi (이날치) at Assembly",
+      "artists": [
+        "Leenalchi (이날치)"
+      ],
+      "venue": "Assembly",
+      "date": "2026-11-01T20:00:00",
+      "announced": "2026-06-02T17:16:50Z",
+      "url": "https://www.jambase.com/show/leenalchi-%ec%9d%b4%eb%82%a0%ec%b9%98-assembly-20261101",
+      "id": "jambase:16431098"
     }
   ],
   "recent": [
@@ -495,6 +498,17 @@
       "announced": "2026-10-20T21:55:23Z",
       "url": "https://www.jambase.com/show/garbaggio-tubbys-20261119",
       "id": "jambase:17271299"
+    },
+    {
+      "title": "Hudson Valley Symphony Orchestra at Assembly",
+      "artists": [
+        "Hudson Valley Symphony Orchestra"
+      ],
+      "venue": "Assembly",
+      "date": "2026-12-05T11:00:00",
+      "announced": "2026-10-20T18:24:42Z",
+      "url": "https://www.jambase.com/show/hudson-valley-symphony-orchestra-assembly-20261205",
+      "id": "jambase:17269104"
     },
     {
       "title": "Dominick & The Family Band at Tubby’s",
@@ -574,6 +588,17 @@
       "announced": "2026-10-12T19:49:16Z",
       "url": "https://www.jambase.com/show/yard-sale-colony-20261108",
       "id": "jambase:17215604"
+    },
+    {
+      "title": "Stagefright at Colony",
+      "artists": [
+        "Stagefright"
+      ],
+      "venue": "Colony",
+      "date": "2026-12-05T19:00:00",
+      "announced": "2026-10-12T19:49:14Z",
+      "url": "https://www.jambase.com/show/stagefright-colony-20261205",
+      "id": "jambase:17215595"
     },
     {
       "title": "Kiki Cavazos at Colony",
@@ -893,28 +918,6 @@
       "announced": "2026-09-15T16:21:25Z",
       "url": "https://www.jambase.com/show/trey-anastasio-band-palace-theatre-20261112",
       "id": "jambase:17048530"
-    },
-    {
-      "title": "Jason Bonham's Led Zeppelin Evening at Proctor’s Theatre",
-      "artists": [
-        "Jason Bonham’s Led Zeppelin Evening"
-      ],
-      "venue": "Proctor’s Theatre",
-      "date": "2026-11-25T19:30:00",
-      "announced": "2026-09-15T15:20:22Z",
-      "url": "https://www.jambase.com/show/jason-bonhams-led-zeppelin-evening-proctors-theatre-20261125",
-      "id": "jambase:17048218"
-    },
-    {
-      "title": "LOCKED SHUT at The Pines Theater",
-      "artists": [
-        "LOCKED SHUT"
-      ],
-      "venue": "The Pines Theater",
-      "date": "2026-11-14T19:00:00",
-      "announced": "2026-09-14T18:35:41Z",
-      "url": "https://www.jambase.com/show/locked-shut-the-pines-theater-20261114",
-      "id": "jambase:17037814"
     }
   ]
 }
