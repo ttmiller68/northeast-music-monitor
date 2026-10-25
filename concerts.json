@@ -1,90 +1,6 @@
 {
-  "updated": "2026-10-24T18:39:51.046818+00:00",
+  "updated": "2026-10-25T00:47:47.411471+00:00",
   "upcoming": [
-    {
-      "title": "Sam Grisman Project at Griffin House",
-      "artists": [
-        "Sam Grisman Project",
-        "Skeleton Crewe",
-        "SAGE",
-        "Laura Leigh Band",
-        "Danny Danko"
-      ],
-      "venue": "Griffin House",
-      "date": "2026-10-24T12:00:00",
-      "announced": "2026-07-14T20:09:23Z",
-      "url": "https://www.jambase.com/show/sam-grisman-project-griffin-house-20261024",
-      "id": "jambase:16735953"
-    },
-    {
-      "title": "T.V. Doctors at Indian Ladder Farms",
-      "artists": [
-        "T.V. Doctors"
-      ],
-      "venue": "Indian Ladder Farms",
-      "date": "2026-10-24T13:00:00",
-      "announced": "2026-09-08T21:22:56Z",
-      "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261024",
-      "id": "jambase:17005510"
-    },
-    {
-      "title": "The Erotics at Empire Underground",
-      "artists": [
-        "The Erotics"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-10-24T18:30:00",
-      "announced": "2026-09-02T23:40:31Z",
-      "url": "https://www.jambase.com/show/the-erotics-empire-underground-20261024",
-      "id": "jambase:16993691"
-    },
-    {
-      "title": "Steve Earle at Bearsville Theater",
-      "artists": [
-        "Steve Earle"
-      ],
-      "venue": "Bearsville Theater",
-      "date": "2026-10-24T20:00:00",
-      "announced": "2026-06-30T06:02:37Z",
-      "url": "https://www.jambase.com/show/steve-earle-bearsville-theater-20261024",
-      "id": "jambase:16637345"
-    },
-    {
-      "title": "Quadeca at Empire Live",
-      "artists": [
-        "Quadeca",
-        "Derby"
-      ],
-      "venue": "Empire Live",
-      "date": "2026-10-24T20:00:00",
-      "announced": "2026-07-24T15:22:50Z",
-      "url": "https://www.jambase.com/show/quadeca-empire-live-20261024",
-      "id": "jambase:16788384"
-    },
-    {
-      "title": "Alash at The Local Center for Arts and Culture",
-      "artists": [
-        "Alash"
-      ],
-      "venue": "The Local Center for Arts and Culture",
-      "date": "2026-10-24T20:00:00",
-      "announced": "2026-07-02T19:06:56Z",
-      "url": "https://www.jambase.com/show/alash-the-local-center-for-arts-and-culture-20261024",
-      "id": "jambase:16680296"
-    },
-    {
-      "title": "The Warped Tour Band at Putnam Place",
-      "artists": [
-        "The Warped Tour Band",
-        "All The Blink Things (Tribute to Blink-182)",
-        "Fake Out Boy – Tribute to Fall Out Boy"
-      ],
-      "venue": "Putnam Place",
-      "date": "2026-10-24T20:00:00",
-      "announced": "2026-08-12T14:21:24Z",
-      "url": "https://www.jambase.com/show/the-warped-tour-band-putnam-place-20261024",
-      "id": "jambase:16874201"
-    },
     {
       "title": "T.V. Doctors at Indian Ladder Farms",
       "artists": [
@@ -463,6 +379,86 @@
       "announced": "2026-06-02T17:16:50Z",
       "url": "https://www.jambase.com/show/leenalchi-%ec%9d%b4%eb%82%a0%ec%b9%98-assembly-20261101",
       "id": "jambase:16431098"
+    },
+    {
+      "title": "SUMPP at No Fun",
+      "artists": [
+        "SUMPP",
+        "Flagman",
+        "CPS"
+      ],
+      "venue": "No Fun",
+      "date": "2026-11-03T19:00:00",
+      "announced": "2026-10-05T15:50:48Z",
+      "url": "https://www.jambase.com/show/sumpp-no-fun-20261103",
+      "id": "jambase:17161685"
+    },
+    {
+      "title": "Galactic Empire at Empire Underground",
+      "artists": [
+        "Galactic Empire"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-11-04T19:00:00",
+      "announced": "2026-09-18T19:23:40Z",
+      "url": "https://www.jambase.com/show/galactic-empire-empire-underground-20261104",
+      "id": "jambase:17072388"
+    },
+    {
+      "title": "Vieux Farka Touré at Assembly",
+      "artists": [
+        "Vieux Farka Touré"
+      ],
+      "venue": "Assembly",
+      "date": "2026-11-04T20:00:00",
+      "announced": "2026-09-28T16:28:33Z",
+      "url": "https://www.jambase.com/show/vieux-farka-toure-assembly-20261104",
+      "id": "jambase:17124755"
+    },
+    {
+      "title": "Carsie Blanton at Lark Hall",
+      "artists": [
+        "Carsie Blanton"
+      ],
+      "venue": "Lark Hall",
+      "date": "2026-11-04T20:00:00",
+      "announced": "2026-04-15T18:45:04Z",
+      "url": "https://www.jambase.com/show/carsie-blanton-lark-hall-20261104",
+      "id": "jambase:16083725"
+    },
+    {
+      "title": "Jason Isbell at Troy Savings Bank Music Hall",
+      "artists": [
+        "Jason Isbell"
+      ],
+      "venue": "Troy Savings Bank Music Hall",
+      "date": "2026-11-05T19:00:00",
+      "announced": "2026-04-30T16:40:32Z",
+      "url": "https://www.jambase.com/show/jason-isbell-troy-savings-bank-music-hall-20261105",
+      "id": "jambase:16204176"
+    },
+    {
+      "title": "Kiki Cavazos at Colony",
+      "artists": [
+        "Kiki Cavazos",
+        "Jackson and the Janks"
+      ],
+      "venue": "Colony",
+      "date": "2026-11-05T19:00:00",
+      "announced": "2026-10-12T18:56:34Z",
+      "url": "https://www.jambase.com/show/kiki-cavazos-colony-20261105",
+      "id": "jambase:17213915"
+    },
+    {
+      "title": "DITZ at Tubby’s",
+      "artists": [
+        "DITZ"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-11-05T19:00:00",
+      "announced": "2026-08-13T18:48:52Z",
+      "url": "https://www.jambase.com/show/ditz-tubbys-20261105",
+      "id": "jambase:16883452"
     }
   ],
   "recent": [
@@ -668,6 +664,17 @@
       "id": "jambase:17205109"
     },
     {
+      "title": "BCMC at Tubby’s",
+      "artists": [
+        "BCMC"
+      ],
+      "venue": "Tubby’s",
+      "date": "2026-12-09T19:00:00",
+      "announced": "2026-10-08T16:34:56Z",
+      "url": "https://www.jambase.com/show/bcmc-tubbys-20261209",
+      "id": "jambase:17196633"
+    },
+    {
       "title": "Labiahead (Tribute to Radiohead) at Assembly",
       "artists": [
         "Labiahead (Tribute to Radiohead)"
@@ -785,6 +792,18 @@
       "id": "jambase:17118971"
     },
     {
+      "title": "Darkest Hour at Empire Underground",
+      "artists": [
+        "Darkest Hour",
+        "Judiciary"
+      ],
+      "venue": "Empire Underground",
+      "date": "2026-12-09T19:00:00",
+      "announced": "2026-09-24T17:23:35Z",
+      "url": "https://www.jambase.com/show/darkest-hour-empire-underground-20261209",
+      "id": "jambase:17100815"
+    },
+    {
       "title": "Saving Abel at Putnam Place",
       "artists": [
         "Saving Abel"
@@ -896,28 +915,6 @@
       "announced": "2026-09-15T22:12:33Z",
       "url": "https://www.jambase.com/show/rachael-yamagata-swyer-theatre-at-the-egg-20261118",
       "id": "jambase:17055633"
-    },
-    {
-      "title": "The Big Takeover at Colony",
-      "artists": [
-        "The Big Takeover"
-      ],
-      "venue": "Colony",
-      "date": "2026-11-27T21:00:00",
-      "announced": "2026-09-15T17:08:55Z",
-      "url": "https://www.jambase.com/show/the-big-takeover-colony-20261127",
-      "id": "jambase:17050655"
-    },
-    {
-      "title": "Trey Anastasio Band at Palace Theatre",
-      "artists": [
-        "Trey Anastasio Band"
-      ],
-      "venue": "Palace Theatre",
-      "date": "2026-11-12T19:00:00",
-      "announced": "2026-09-15T16:21:25Z",
-      "url": "https://www.jambase.com/show/trey-anastasio-band-palace-theatre-20261112",
-      "id": "jambase:17048530"
     }
   ]
 }
