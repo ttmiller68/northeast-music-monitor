@@ -1,40 +1,6 @@
 {
-  "updated": "2026-10-25T18:40:45.410759+00:00",
+  "updated": "2026-10-26T01:02:10.012169+00:00",
   "upcoming": [
-    {
-      "title": "T.V. Doctors at Indian Ladder Farms",
-      "artists": [
-        "T.V. Doctors"
-      ],
-      "venue": "Indian Ladder Farms",
-      "date": "2026-10-25T13:00:00",
-      "announced": "2026-09-08T21:22:57Z",
-      "url": "https://www.jambase.com/show/t-v-doctors-indian-ladder-farms-20261025",
-      "id": "jambase:17005512"
-    },
-    {
-      "title": "Texas Hippie Coalition at Empire Underground",
-      "artists": [
-        "Texas Hippie Coalition",
-        "VaterSon"
-      ],
-      "venue": "Empire Underground",
-      "date": "2026-10-25T19:00:00",
-      "announced": "2026-04-30T23:09:49Z",
-      "url": "https://www.jambase.com/show/texas-hippie-coalition-empire-underground-20261025",
-      "id": "jambase:16210797"
-    },
-    {
-      "title": "Hudson Valley Flyers at Colony",
-      "artists": [
-        "Hudson Valley Flyers"
-      ],
-      "venue": "Colony",
-      "date": "2026-10-25T19:00:00",
-      "announced": "2026-10-05T20:11:09Z",
-      "url": "https://www.jambase.com/show/hudson-valley-flyers-colony-20261025",
-      "id": "jambase:17172947"
-    },
     {
       "title": "Beauty School Dropout at Empire Underground",
       "artists": [
@@ -459,6 +425,40 @@
       "announced": "2026-08-13T18:48:52Z",
       "url": "https://www.jambase.com/show/ditz-tubbys-20261105",
       "id": "jambase:16883452"
+    },
+    {
+      "title": "The Naghash Ensemble at Universal Preservation Hall",
+      "artists": [
+        "The Naghash Ensemble"
+      ],
+      "venue": "Universal Preservation Hall",
+      "date": "2026-11-05T19:30:00",
+      "announced": "2026-10-22T16:54:10Z",
+      "url": "https://www.jambase.com/show/the-naghash-ensemble-universal-preservation-hall-20261105",
+      "id": "jambase:17283750"
+    },
+    {
+      "title": "ADULT. at Assembly",
+      "artists": [
+        "ADULT.",
+        "A Place to Bury Strangers"
+      ],
+      "venue": "Assembly",
+      "date": "2026-11-05T20:00:00",
+      "announced": "2026-05-19T17:08:19Z",
+      "url": "https://www.jambase.com/show/adult-assembly-20261105",
+      "id": "jambase:16323602"
+    },
+    {
+      "title": "Hiss Golden Messenger at Bearsville Theater",
+      "artists": [
+        "Hiss Golden Messenger"
+      ],
+      "venue": "Bearsville Theater",
+      "date": "2026-11-05T20:00:00",
+      "announced": "2026-02-11T15:29:18Z",
+      "url": "https://www.jambase.com/show/hiss-golden-messenger-bearsville-theater-20261105",
+      "id": "jambase:15637264"
     }
   ],
   "recent": [
@@ -710,17 +710,6 @@
       "id": "jambase:17185397"
     },
     {
-      "title": "Hudson Valley Flyers at Colony",
-      "artists": [
-        "Hudson Valley Flyers"
-      ],
-      "venue": "Colony",
-      "date": "2026-10-25T19:00:00",
-      "announced": "2026-10-05T20:11:09Z",
-      "url": "https://www.jambase.com/show/hudson-valley-flyers-colony-20261025",
-      "id": "jambase:17172947"
-    },
-    {
       "title": "Molly Venter at Colony",
       "artists": [
         "Molly Venter",
@@ -768,6 +757,17 @@
       "announced": "2026-09-28T18:55:20Z",
       "url": "https://www.jambase.com/show/the-nolanauts-putnam-place-20261031",
       "id": "jambase:17129311"
+    },
+    {
+      "title": "Newberry & Verch at The Park Theater",
+      "artists": [
+        "Newberry & Verch"
+      ],
+      "venue": "The Park Theater",
+      "date": "2026-12-10T19:30:00",
+      "announced": "2026-09-28T17:05:34Z",
+      "url": "https://www.jambase.com/show/newberry-verch-the-park-theater-20261210",
+      "id": "jambase:17126165"
     },
     {
       "title": "Vieux Farka Touré at Assembly",
